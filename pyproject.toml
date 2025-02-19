@@ -35,6 +35,7 @@ dependencies = [
 
     # AI/ML
     "openai==1.63.2",
+    "groq==0.18.0",
 
     # metrics
     "prometheus-client==0.20.0",

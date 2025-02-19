@@ -38,6 +38,4 @@ for i in range(len(collegedata)):
             handler.write(img_data)
         time.sleep(1)
 
-# print(collegedata)
-
 driver.quit()
