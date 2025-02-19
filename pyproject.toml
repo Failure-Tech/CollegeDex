@@ -34,7 +34,7 @@ dependencies = [
     "psycopg-binary==3.2.3",
 
     # AI/ML
-    "openai==1.12.0",
+    "openai==1.63.2",
 
     # metrics
     "prometheus-client==0.20.0",
