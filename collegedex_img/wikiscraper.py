@@ -23,19 +23,22 @@ for i in range(len(collegedata)):
         searchbar = driver.find_elements(By.CLASS_NAME, "cdx-text-input__input")[0]
         searchbar.send_keys(data[i][2])
         time.sleep(0.5)
-        listitem = driver.find_elements(By.CLASS_NAME, "cdx-menu__listbox")[0]
-        it = listitem.find_elements(By.TAG_NAME, "li")[0]
-        a = it.find_element(By.TAG_NAME, "a")
-        a.click()
-        time.sleep(0.5)
-        table = driver.find_elements(By.CSS_SELECTOR, ".infobox.vcard")[0]
-        grids = table.find_elements(By.CLASS_NAME, "infobox-image")[0]
-        img = grids.find_element(By.TAG_NAME, "img")
-        imgurl = img.get_attribute('src')
-        spl = imgurl.split('.')[-1]
-        img_data = requests.get(imgurl).content
-        with open(f'./images/{data[i][1]}.{spl}', 'wb') as handler:
-            handler.write(img_data)
-        time.sleep(1)
+        try:
+            listitem = driver.find_elements(By.CLASS_NAME, "cdx-menu__listbox")[0]
+            it = listitem.find_elements(By.TAG_NAME, "li")[0]
+            a = it.find_element(By.TAG_NAME, "a")
+            a.click()
+            time.sleep(0.5)
+            table = driver.find_elements(By.CSS_SELECTOR, ".infobox.vcard")[0]
+            grids = table.find_elements(By.CLASS_NAME, "infobox-image")[0]
+            img = grids.find_element(By.TAG_NAME, "img")
+            imgurl = img.get_attribute('src')
+            spl = imgurl.split('.')[-1]
+            img_data = requests.get(imgurl).content
+            with open(f'./images/{data[i][1]}.{spl}', 'wb') as handler:
+                handler.write(img_data)
+            time.sleep(1)
+        except:
+            time.sleep(1)
 
 driver.quit()
