@@ -1,23 +1,3 @@
-# # import openai
-
-# # # Replace with your own OpenAI API key
-# # openai.api_key = "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"
-
-# # # Define the prompt
-# # prompt = "Roast the absolute shit out of these college activities/statistics that will be given as prompts"
-
-# # # Interact with OpenAI's API
-# # response = openai.Completion.create(
-# #     engine="text-davinci-003",  # Ensure you're using a compatible engine
-# #     prompt=prompt,
-# #     max_tokens=100,  # You can adjust this parameter
-# #     temperature=0.7  # Controls randomness, adjust between 0 to 1
-# # )
-
-# # # Extract the response text
-# # output_text = response['choices'][0]['text'].strip()
-# # print(output_text)
-
 # import openai
 
 # # optional; defaults to `os.environ['OPENAI_API_KEY']`
@@ -43,30 +23,69 @@
 #     ],
 # )
 
-# print(completion.choices[0].message.content)
+# print(completion.choices[0].message.content
 
-import openai
+# import os
+# import json
+from groq import Groq
+from typing import Dict, Any
 
-# Define your OpenAI API key
-openai.api_key = "your-openai-api-key"
+def create_groq_client() -> Groq:
+    """Create and validate the Groq client."""
+    # api_key = "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"
+    api_key = "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"
+    if not api_key:
+        raise ValueError("GROQ_API_KEY environment variable not set")
+    return Groq(api_key=api_key)
 
-def get_chanceme_response(user_input: str) -> str:
-    """Uses OpenAI to generate a response to the user input."""
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[
+def get_chanceme_response(client: Groq, user_prompt: str) -> str:
+    """Generate a response from the Groq API."""
+    try:
+        messages = [
             {
                 "role": "system",
-                "content": "You are a bot that roasts college activities/statistics."
+                # "content": "Roast the absolute shit out of these college activities/statistics that will be given as prompts, please curse (fuck, shit, etc.) as much as possible and be as mean as possible."
+                "content": "Roast the absolute shit out of these college activities/statistics that will be given as prompts"
             },
             {
                 "role": "user",
-                "content": user_input
+                "content": user_prompt
             }
-        ],
-        max_tokens=100,
-        temperature=0.7
-    )
-    return response['choices'][0]['message']['content'].strip()
+        ]
+        response = client.chat.completions.create(
+            messages=messages,
+            model="gemma2-9b-it",  # Example model
+            # model="deepseek-r1-distill-llama-70b",
+            # model="llama-3.1-8b-instant",
+            temperature=0.7,
+            
+        )
+        content = response.choices[0].message.content
+        if not content:
+            raise ValueError("Reduce size of chanceme")
 
-print(openai.__version__)
+        return content
+    except Exception as e:
+        raise Exception(f"Error generating response: {str(e)}")
+
+# def main():
+#     try:
+#         # Initialize Groq client
+#         print("Initializing Groq client...")
+#         client = create_groq_client()
+#         print("Groq client initialized")
+
+#         # Example user input
+#         user_input = "Discuss the effectiveness of college sports programs."
+        
+#         # Generate response
+#         print("Generating response...")
+#         response = generate_response(client, user_input)
+#         print("Response received:")
+#         print(response)
+
+#     except Exception as e:
+#         print(f"\nError: {str(e)}")
+
+# if __name__ == "__main__":
+#     main()
