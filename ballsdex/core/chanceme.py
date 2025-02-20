@@ -32,7 +32,8 @@ from typing import Dict, Any
 
 def create_groq_client() -> Groq:
     """Create and validate the Groq client."""
-    api_key = "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"
+    # api_key = "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"
+    api_key = "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"
     if not api_key:
         raise ValueError("GROQ_API_KEY environment variable not set")
     return Groq(api_key=api_key)
@@ -54,6 +55,7 @@ def get_chanceme_response(client: Groq, user_prompt: str) -> str:
         response = client.chat.completions.create(
             messages=messages,
             model="gemma2-9b-it",  # Example model
+            # model="deepseek-r1-distill-llama-70b",
             # model="llama-3.1-8b-instant",
             temperature=0.7,
             

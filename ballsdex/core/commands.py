@@ -87,15 +87,6 @@ class Core(commands.Cog):
         await interaction.response.send_message(response_message, ephemeral=False)
         # time.sleep(60)
 
-    # @commands.command()
-    # @chanceme.error()
-    # async def chanceme_error(self, interaction: Interaction, error):
-    #     if isinstance(error, app_commands.CommandOnCooldown):
-    #         await interaction.response.send_message(
-    #             f"This command is on cooldown. Please retry after {round(error.retry_after)} seconds.",
-    #             ephemeral=True
-    #         )
-
     @commands.command()
     @commands.is_owner()
     async def analyzedb(self, ctx: commands.Context):
