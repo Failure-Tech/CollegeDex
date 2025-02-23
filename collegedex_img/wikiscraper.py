@@ -40,7 +40,7 @@ for i in range(len(collegedata)):
             driver.get(imgurl) 
             time.sleep(1)
             img_data = requests.get(imgurl).content
-            with open(f'./images/{data[i][1]}.{spl}', 'wb') as handler:
+            with open(f'./test_imgs/{data[i][1]}.{spl}', 'wb') as handler:
                 handler.write(img_data)
             driver.close()
             driver.switch_to.window(driver.window_handles[0])

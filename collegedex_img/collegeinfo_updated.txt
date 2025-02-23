@@ -1,0 +1,7552 @@
+[
+    [
+        0,
+        "1",
+        "Princeton University",
+        "NJ",
+        "Private not-for-profit",
+        "$59,792",
+        "$7,559",
+        "$189,400",
+        "A-",
+        {
+            "attack": 1475.9932262961272,
+            "health": 2962.155493384049
+        }
+    ],
+    [
+        1,
+        "",
+        "Princeton University is a private Ivy League research university located in Princeton, New Jersey. As the fourth oldest college in the United States, Princeton has a deep history that spans 276 years. The university offers 37 degree concentrations and over 50 interdepartmental certificate programs, with some of the most popular majors being social sciences, engineering, public administration, and social service professions. Princeton provides generous financial aid, covering 100% of tuition and housing for families earning up to $65,000 for the class of 2026. In 2022, Princeton reported an endowment valued at $35.8 billion to help fund university-wide research, service programs, and financial aid to help students graduate debt free. Campus traditions allow Ivy League sports rivalries to live on\u2014students celebrate defeating Harvard and Yale in the same season by creating a bonfire by burning crates decorated with the rival team\u2019s colors and logos. Keeping with tradition, students conclude the end of each course with a round of applause in appreciation to the professor once the final lecture is given, writes Am\u00e9lie Lemay, who described her 2021 freshman semester at Princeton University.\nView Profile\nAV. GRANT AID\n$59,792"
+    ],
+    [
+        2,
+        "2",
+        "Stanford University",
+        "CA",
+        "Private not-for-profit",
+        "$60,619",
+        "$12,999",
+        "$177,500",
+        "A+",
+        {
+            "attack": 1452.3923153976552,
+            "health": 2924.8955609236095
+        }
+    ],
+    [
+        3,
+        "3",
+        "Massachusetts Institute of Technology",
+        "MA",
+        "Private not-for-profit",
+        "$45,591",
+        "$13,792",
+        "$189,400",
+        "A",
+        {
+            "attack": 1429.1904057154823,
+            "health": 2888.2111728552145
+        }
+    ],
+    [
+        4,
+        "4",
+        "Yale University",
+        "CT",
+        "Private not-for-profit",
+        "$63,523",
+        "$4,926",
+        "$168,300",
+        "A+",
+        {
+            "attack": 1406.3807516637585,
+            "health": 2852.0934388957817
+        }
+    ],
+    [
+        5,
+        "5",
+        "University of California, Berkeley",
+        "CA",
+        "Public",
+        "$21,669",
+        "$7,238",
+        "$167,000",
+        "",
+        {
+            "attack": 1383.9567216987132,
+            "health": 2816.5336060880963
+        }
+    ],
+    [
+        6,
+        "6",
+        "Columbia University",
+        "NY",
+        "Private not-for-profit",
+        "$61,061",
+        "$16,849",
+        "$156,000",
+        "A+",
+        {
+            "attack": 1361.9117963906392,
+            "health": 2781.523056679575
+        }
+    ],
+    [
+        7,
+        "7",
+        "University of Pennsylvania",
+        "PA",
+        "Private not-for-profit",
+        "$57,175",
+        "$12,499",
+        "$171,800",
+        "A+",
+        {
+            "attack": 1340.2395665284737,
+            "health": 2747.053306033796
+        }
+    ],
+    [
+        8,
+        "8",
+        "Harvard University",
+        "MA",
+        "Private not-for-profit",
+        "$61,801",
+        "$9,004",
+        "$171,400",
+        "A",
+        {
+            "attack": 1318.9337312564203,
+            "health": 2713.1160005742886
+        }
+    ],
+    [
+        9,
+        "9",
+        "Rice University",
+        "TX",
+        "Private not-for-profit",
+        "$51,955",
+        "$10,818",
+        "$152,100",
+        "A",
+        {
+            "attack": 1297.988096242077,
+            "health": 2679.7029157600828
+        }
+    ],
+    [
+        10,
+        "10",
+        "Cornell University",
+        "NY",
+        "Private not-for-profit",
+        "$54,219",
+        "$8,309",
+        "$155,400",
+        "A+",
+        {
+            "attack": 1277.3965718755317,
+            "health": 2646.805954092534
+        }
+    ],
+    [
+        11,
+        "11",
+        "Northwestern University",
+        "IL",
+        "Private not-for-profit",
+        "$61,716",
+        "$6,973",
+        "$141,300",
+        "A",
+        {
+            "attack": 1257.1531714989057,
+            "health": 2614.417143152934
+        }
+    ],
+    [
+        12,
+        "12",
+        "Johns Hopkins University",
+        "MD",
+        "Private not-for-profit",
+        "$54,405",
+        "$9,843",
+        "$142,300",
+        "A",
+        {
+            "attack": 1237.252009665828,
+            "health": 2582.52863367043
+        }
+    ],
+    [
+        13,
+        "13",
+        "University of California, Los Angeles",
+        "CA",
+        "Public",
+        "$21,766",
+        "$6,418",
+        "$144,400",
+        "",
+        {
+            "attack": 1217.6873004303354,
+            "health": 2551.1326976197965
+        }
+    ],
+    [
+        14,
+        "14",
+        "University of Chicago",
+        "IL",
+        "Private not-for-profit",
+        "$48,422",
+        "$12,150",
+        "$150,600",
+        "A",
+        {
+            "attack": 1198.4533556647007,
+            "health": 2520.2217263485845
+        }
+    ],
+    [
+        15,
+        "15",
+        "Vanderbilt University",
+        "TN",
+        "Private not-for-profit",
+        "$53,932",
+        "$8,872",
+        "$148,000",
+        "A-",
+        {
+            "attack": 1179.5445834057011,
+            "health": 2489.7882287332013
+        }
+    ],
+    [
+        16,
+        "16",
+        "Dartmouth College",
+        "NH",
+        "Private not-for-profit",
+        "$62,293",
+        "$6,404",
+        "$173,300",
+        "A",
+        {
+            "attack": 1160.9554862288423,
+            "health": 2459.8248293634715
+        }
+    ],
+    [
+        17,
+        "17",
+        "Williams College",
+        "MA",
+        "Private not-for-profit",
+        "$57,121",
+        "$4,143",
+        "$169,200",
+        "A+",
+        {
+            "attack": 1142.6806596500708,
+            "health": 2430.324266755245
+        }
+    ],
+    [
+        18,
+        "18",
+        "Brown University",
+        "RI",
+        "Private not-for-profit",
+        "$55,847",
+        "$10,059",
+        "$155,000",
+        "A",
+        {
+            "attack": 1124.7147905545064,
+            "health": 2401.2793915906113
+        }
+    ],
+    [
+        19,
+        "19",
+        "Claremont McKenna College",
+        "CA",
+        "Private not-for-profit",
+        "$50,020",
+        "$7,631",
+        "$167,000",
+        "A+",
+        {
+            "attack": 1107.052655651738,
+            "health": 2372.6831649852948
+        }
+    ],
+    [
+        20,
+        "20",
+        "Duke University",
+        "NC",
+        "Private not-for-profit",
+        "$57,444",
+        "$6,351",
+        "$158,700",
+        "A+",
+        {
+            "attack": 1089.689119957236,
+            "health": 2344.5286567828175
+        }
+    ],
+    [
+        21,
+        "21",
+        "University of California, San Diego",
+        "CA",
+        "Public",
+        "$20,782",
+        "$6,437",
+        "$151,500",
+        "",
+        {
+            "attack": 1072.619135299436,
+            "health": 2316.8090438750087
+        }
+    ],
+    [
+        22,
+        "22",
+        "California Institute of Technology",
+        "CA",
+        "Private not-for-profit",
+        "$59,192",
+        "$12,553",
+        "$168,600",
+        "B+",
+        {
+            "attack": 1055.8377388520648,
+            "health": 2289.5176085484572
+        }
+    ],
+    [
+        23,
+        "23",
+        "Wellesley College",
+        "MA",
+        "Private not-for-profit",
+        "$61,328",
+        "$5,608",
+        "$134,100",
+        "A+",
+        {
+            "attack": 1039.3400516912757,
+            "health": 2262.647736856508
+        }
+    ],
+    [
+        24,
+        "24",
+        "Amherst College",
+        "MA",
+        "Private not-for-profit",
+        "$58,693",
+        "$9,293",
+        "$139,700",
+        "A+",
+        {
+            "attack": 1023.1212773771814,
+            "health": 2236.1929170164017
+        }
+    ],
+    [
+        25,
+        "25",
+        "Bowdoin College",
+        "ME",
+        "Private not-for-profit",
+        "$53,534",
+        "$10,512",
+        "$152,900",
+        "A+",
+        {
+            "attack": 1007.1767005593634,
+            "health": 2210.146737831178
+        }
+    ],
+    [
+        26,
+        "26",
+        "University of Florida",
+        "FL",
+        "Public",
+        "$10,555",
+        "$6,122",
+        "$123,700",
+        "",
+        {
+            "attack": 991.5016856059606,
+            "health": 2184.5028871359527
+        }
+    ],
+    [
+        27,
+        "27",
+        "Swarthmore College",
+        "PA",
+        "Private not-for-profit",
+        "$47,703",
+        "$7,705",
+        "$154,900",
+        "A+",
+        {
+            "attack": 976.0916752559318,
+            "health": 2159.2551502681945
+        }
+    ],
+    [
+        28,
+        "28",
+        "University of Southern California",
+        "CA",
+        "Private not-for-profit",
+        "$45,262",
+        "$7,526",
+        "$150,100",
+        "B-",
+        {
+            "attack": 960.9421892941054,
+            "health": 2134.397408561632
+        }
+    ],
+    [
+        29,
+        "29",
+        "University of Michigan, Ann Arbor",
+        "MI",
+        "Public",
+        "$15,121",
+        "$8,470",
+        "$137,500",
+        "",
+        {
+            "attack": 946.0488232486281,
+            "health": 2109.923637863425
+        }
+    ],
+    [
+        30,
+        "30",
+        "Washington University in St. Louis",
+        "MO",
+        "Private not-for-profit",
+        "$58,188",
+        "$9,495",
+        "$142,800",
+        "A+",
+        {
+            "attack": 931.4072471104345,
+            "health": 2085.827907074241
+        }
+    ],
+    [
+        31,
+        "31",
+        "University of North Carolina, Chapel Hill",
+        "NC",
+        "Public",
+        "$18,066",
+        "$7,953",
+        "$118,200",
+        "",
+        {
+            "attack": 917.0132040743657,
+            "health": 2062.10437671088
+        }
+    ],
+    [
+        32,
+        "32",
+        "Georgetown University",
+        "DC",
+        "Private not-for-profit",
+        "$45,949",
+        "$8,982",
+        "$163,400",
+        "B",
+        {
+            "attack": 902.8625093015722,
+            "health": 2038.7472974911068
+        }
+    ],
+    [
+        33,
+        "33",
+        "Emory University",
+        "GA",
+        "Private not-for-profit",
+        "$48,914",
+        "$7,280",
+        "$138,600",
+        "A",
+        {
+            "attack": 888.9510487028372,
+            "health": 2015.7510089403388
+        }
+    ],
+    [
+        34,
+        "34",
+        "University of Virginia",
+        "VA",
+        "Public",
+        "$26,818",
+        "$8,639",
+        "$149,100",
+        "",
+        {
+            "attack": 875.2747777424713,
+            "health": 1993.109938019857
+        }
+    ],
+    [
+        35,
+        "35",
+        "University of California, Santa Barbara",
+        "CA",
+        "Public",
+        "$20,389",
+        "$7,453",
+        "$148,600",
+        "",
+        {
+            "attack": 861.8297202624283,
+            "health": 1970.8185977762091
+        }
+    ],
+    [
+        36,
+        "36",
+        "Brigham Young University",
+        "UT",
+        "Private not-for-profit",
+        "$6,325",
+        "$5,457",
+        "$133,900",
+        "A+",
+        {
+            "attack": 848.6119673262999,
+            "health": 1948.871586011471
+        }
+    ],
+    [
+        37,
+        "37",
+        "Pomona College",
+        "CA",
+        "Private not-for-profit",
+        "$57,848",
+        "$9,049",
+        "$138,900",
+        "A+",
+        {
+            "attack": 835.6176760828555,
+            "health": 1927.2635839740515
+        }
+    ],
+    [
+        38,
+        "38",
+        "Georgia Institute of Technology",
+        "GA",
+        "Public",
+        "$13,992",
+        "$7,027",
+        "$163,500",
+        "",
+        {
+            "attack": 822.843068648794,
+            "health": 1905.989355069719
+        }
+    ],
+    [
+        39,
+        "39",
+        "University of California, Irvine",
+        "CA",
+        "Public",
+        "$17,411",
+        "$6,561",
+        "$148,400",
+        "",
+        {
+            "attack": 810.2844310103842,
+            "health": 1885.043743592537
+        }
+    ],
+    [
+        40,
+        "40",
+        "University of Illinois, Urbana-Champaign",
+        "IL",
+        "Public",
+        "$16,552",
+        "$6,697",
+        "$139,900",
+        "",
+        {
+            "attack": 797.9381119436746,
+            "health": 1864.4216734754054
+        }
+    ],
+    [
+        41,
+        "41",
+        "University of Maryland, College Park",
+        "MD",
+        "Public",
+        "$11,232",
+        "$10,201",
+        "$134,700",
+        "",
+        {
+            "attack": 785.800521952958,
+            "health": 1844.1181470598995
+        }
+    ],
+    [
+        42,
+        "42",
+        "University of Notre Dame",
+        "IN",
+        "Private not-for-profit",
+        "$49,859",
+        "$7,390",
+        "$160,200",
+        "A+",
+        {
+            "attack": 773.8681322271833,
+            "health": 1824.128243885111
+        }
+    ],
+    [
+        43,
+        "43",
+        "University of California, Davis",
+        "CA",
+        "Public",
+        "$20,548",
+        "$5,965",
+        "$142,700",
+        "",
+        {
+            "attack": 762.1374736140097,
+            "health": 1804.447119495201
+        }
+    ],
+    [
+        44,
+        "44",
+        "University of Washington, Seattle",
+        "WA",
+        "Public",
+        "$14,731",
+        "$6,169",
+        "$136,800",
+        "",
+        {
+            "attack": 750.6051356112047,
+            "health": 1785.0700042653652
+        }
+    ],
+    [
+        45,
+        "45",
+        "Colgate University",
+        "NY",
+        "Private not-for-profit",
+        "$54,647",
+        "$9,018",
+        "$173,800",
+        "A-",
+        {
+            "attack": 739.2677653750968,
+            "health": 1765.9922022459432
+        }
+    ],
+    [
+        46,
+        "46",
+        "University of Texas, Austin",
+        "TX",
+        "Public",
+        "$8,321",
+        "$5,851",
+        "$137,000",
+        "",
+        {
+            "attack": 728.1220667457885,
+            "health": 1747.209090024375
+        }
+    ],
+    [
+        47,
+        "47",
+        "Washington and Lee University",
+        "VA",
+        "Private not-for-profit",
+        "$55,567",
+        "$7,714",
+        "$162,500",
+        "B+",
+        {
+            "attack": 717.1647992888501,
+            "health": 1728.7161156047405
+        }
+    ],
+    [
+        48,
+        "48",
+        "Davidson College",
+        "NC",
+        "Private not-for-profit",
+        "$46,496",
+        "$8,422",
+        "$140,300",
+        "A",
+        {
+            "attack": 706.3927773532157,
+            "health": 1710.508797304605
+        }
+    ],
+    [
+        49,
+        "49",
+        "New York University",
+        "NY",
+        "Private not-for-profit",
+        "$47,096",
+        "$8,550",
+        "$147,100",
+        "B",
+        {
+            "attack": 695.802869145005,
+            "health": 1692.5827226689055
+        }
+    ],
+    [
+        50,
+        "50",
+        "University of Wisconsin, Madison",
+        "WI",
+        "Public",
+        "$11,171",
+        "$9,299",
+        "$125,900",
+        "",
+        {
+            "attack": 685.3919958170053,
+            "health": 1674.9335474006134
+        }
+    ],
+    [
+        0,
+        "51",
+        "Middlebury College",
+        "VT",
+        "Private not-for-profit",
+        "$56,639",
+        "$8,541",
+        "$139,500",
+        "A-",
+        {
+            "attack": 675.1571305735442,
+            "health": 1657.5569943079163
+        }
+    ],
+    [
+        1,
+        "",
+        "Located in the Champlain Valley of central Vermont, Middlebury College is home to about 2,800 undergraduate and 700 graduate students. The university offers 850 courses in 45 majors with nationally recognized programs, including environmental studies and international studies. Class sizes are small, with an average size of 16 students, and have a 9:1 student-faculty ratio. Outside of class, students can enjoy the mountainous views of Middlebury while experiencing a small-town culture. As with panther tradition, students take part in a number of events, including the 24-Hour plays that happen once or twice a year, or the Bad Play Festival, where students can showcase their not-so-celebrated scripts. Middlebury prides itself on having a deep-rooted history, having the oldest and most prestigious writers\u2019 conference in the world. Notable alumni include novelist Andrew Gross and acclaimed playwright Eve Ensler.\nView Profile\nAV. GRANT AID\n$56,639"
+    ],
+    [
+        2,
+        "52",
+        "Tufts University",
+        "MA",
+        "Private not-for-profit",
+        "$51,613",
+        "$7,034",
+        "$144,400",
+        "B+",
+        {
+            "attack": 665.0952977904983,
+            "health": 1640.4488522676595
+        }
+    ],
+    [
+        3,
+        "53",
+        "Boston University",
+        "MA",
+        "Private not-for-profit",
+        "$51,565",
+        "$10,425",
+        "$144,400",
+        "B",
+        {
+            "attack": 655.2035721501767,
+            "health": 1623.6049752048025
+        }
+    ],
+    [
+        4,
+        "54",
+        "Wesleyan University",
+        "CT",
+        "Private not-for-profit",
+        "$59,825",
+        "$9,716",
+        "$149,200",
+        "B+",
+        {
+            "attack": 645.4790777908327,
+            "health": 1607.0212810876365
+        }
+    ],
+    [
+        5,
+        "55",
+        "William & Mary",
+        "VA",
+        "Public",
+        "$15,134",
+        "$8,882",
+        "$134,200",
+        "",
+        {
+            "attack": 635.9189874705515,
+            "health": 1590.6937509385252
+        }
+    ],
+    [
+        6,
+        "56",
+        "Barnard College",
+        "NY",
+        "Private not-for-profit",
+        "$53,817",
+        "$7,339",
+        "$149,300",
+        "A-",
+        {
+            "attack": 626.5205217452758,
+            "health": 1574.6184278599242
+        }
+    ],
+    [
+        7,
+        "57",
+        "California Polytechnic State University, San Luis Obispo",
+        "CA",
+        "Public",
+        "$10,065",
+        "$6,132",
+        "$148,600",
+        "",
+        {
+            "attack": 617.2809481607255,
+            "health": 1558.7914160754465
+        }
+    ],
+    [
+        8,
+        "58",
+        "Carnegie Mellon University",
+        "PA",
+        "Private not-for-profit",
+        "$43,966",
+        "$6,525",
+        "$162,100",
+        "A+",
+        {
+            "attack": 608.1975804579814,
+            "health": 1543.2088799857395
+        }
+    ],
+    [
+        9,
+        "59",
+        "Boston College",
+        "MA",
+        "Private not-for-profit",
+        "$49,992",
+        "$3,588",
+        "$142,200",
+        "B+",
+        {
+            "attack": 599.267777792497,
+            "health": 1527.8670432389467
+        }
+    ],
+    [
+        10,
+        "60",
+        "Lafayette College",
+        "PA",
+        "Private not-for-profit",
+        "$24,981",
+        "$8,349",
+        "$158,700",
+        "B-",
+        {
+            "attack": 590.4889439663157,
+            "health": 1512.7621878155278
+        }
+    ],
+    [
+        11,
+        "61",
+        "Santa Clara University",
+        "CA",
+        "Private not-for-profit",
+        "$25,295",
+        "$7,778",
+        "$173,100",
+        "B",
+        {
+            "attack": 581.8585266732676,
+            "health": 1497.8906531272123
+        }
+    ],
+    [
+        12,
+        "62",
+        "University of Georgia",
+        "GA",
+        "Public",
+        "$11,559",
+        "$6,778",
+        "$124,800",
+        "",
+        {
+            "attack": 573.3740167569267,
+            "health": 1483.248835129877
+        }
+    ],
+    [
+        13,
+        "63",
+        "Purdue University",
+        "IN",
+        "Public",
+        "$8,950",
+        "$9,125",
+        "$126,300",
+        "",
+        {
+            "attack": 565.0329474811138,
+            "health": 1468.8331854501212
+        }
+    ],
+    [
+        14,
+        "64",
+        "Lehigh University",
+        "PA",
+        "Private not-for-profit",
+        "$44,116",
+        "$9,603",
+        "$168,200",
+        "B+",
+        {
+            "attack": 556.8328938127324,
+            "health": 1454.6402105253364
+        }
+    ],
+    [
+        15,
+        "65",
+        "Florida State University",
+        "FL",
+        "Public",
+        "$10,169",
+        "$6,953",
+        "$111,900",
+        "",
+        {
+            "attack": 548.7714717167289,
+            "health": 1440.666470757058
+        }
+    ],
+    [
+        16,
+        "66",
+        "Hamilton College",
+        "NY",
+        "Private not-for-profit",
+        "$52,497",
+        "$4,749",
+        "$125,400",
+        "A+",
+        {
+            "attack": 540.8463374629719,
+            "health": 1426.9085796773961
+        }
+    ],
+    [
+        17,
+        "67",
+        "George Washington University",
+        "DC",
+        "Private not-for-profit",
+        "$35,257",
+        "$10,893",
+        "$148,300",
+        "B-",
+        {
+            "attack": 533.0551869448507,
+            "health": 1413.363203128341
+        }
+    ],
+    [
+        18,
+        "68",
+        "North Carolina State University, Raleigh",
+        "NC",
+        "Public",
+        "$9,181",
+        "$7,194",
+        "$128,600",
+        "",
+        {
+            "attack": 525.3957550093924,
+            "health": 1400.0270584537452
+        }
+    ],
+    [
+        19,
+        "69",
+        "Franklin W Olin College of Engineering",
+        "MA",
+        "Private not-for-profit",
+        "$40,522",
+        "$9,042",
+        "",
+        "",
+        {
+            "attack": 517.8658147987051,
+            "health": 1386.8969137037898
+        }
+    ],
+    [
+        20,
+        "70",
+        "Texas A&M University, College Station",
+        "TX",
+        "Public",
+        "$12,278",
+        "$8,518",
+        "$139,700",
+        "",
+        {
+            "attack": 510.463177102554,
+            "health": 1373.9695868517358
+        }
+    ],
+    [
+        21,
+        "71",
+        "Trinity College (CT)",
+        "CT",
+        "Private not-for-profit",
+        "$46,929",
+        "$7,819",
+        "$141,600",
+        "A-",
+        {
+            "attack": 503.18568972188433,
+            "health": 1361.2419450227756
+        }
+    ],
+    [
+        22,
+        "72",
+        "Haverford College",
+        "PA",
+        "Private not-for-profit",
+        "$57,999",
+        "$10,152",
+        "$146,900",
+        "B+",
+        {
+            "attack": 496.0312368431022,
+            "health": 1348.7109037347952
+        }
+    ],
+    [
+        23,
+        "73",
+        "Northeastern University",
+        "MA",
+        "Private not-for-profit",
+        "$42,331",
+        "$8,278",
+        "$130,300",
+        "A-",
+        {
+            "attack": 488.99773842293695,
+            "health": 1336.373426150867
+        }
+    ],
+    [
+        24,
+        "74",
+        "CUNY, Baruch College",
+        "NY",
+        "Public",
+        "$9,423",
+        "$5,495",
+        "$132,100",
+        "",
+        {
+            "attack": 482.0831495837009,
+            "health": 1324.2265223432855
+        }
+    ],
+    [
+        25,
+        "75",
+        "University of Minnesota, Twin Cities",
+        "MN",
+        "Public",
+        "$11,388",
+        "$9,722",
+        "$125,700",
+        "",
+        {
+            "attack": 475.28546001877396,
+            "health": 1312.267248568973
+        }
+    ],
+    [
+        26,
+        "76",
+        "Binghamton University, SUNY",
+        "NY",
+        "Public",
+        "$11,305",
+        "$7,783",
+        "$136,600",
+        "",
+        {
+            "attack": 468.60269340813875,
+            "health": 1300.4927065560785
+        }
+    ],
+    [
+        27,
+        "77",
+        "San Diego State University",
+        "CA",
+        "Public",
+        "$9,934",
+        "$8,240",
+        "$124,100",
+        "",
+        {
+            "attack": 462.03290684379743,
+            "health": 1288.9000428015947
+        }
+    ],
+    [
+        28,
+        "78",
+        "Cooper Union",
+        "NY",
+        "Private not-for-profit",
+        "$39,305",
+        "$8,310",
+        "$156,500",
+        "A+",
+        {
+            "attack": 455.57419026490186,
+            "health": 1277.4864478798268
+        }
+    ],
+    [
+        29,
+        "79",
+        "Rutgers University",
+        "NJ",
+        "Public",
+        "$12,785",
+        "$8,040",
+        "$137,000",
+        "",
+        {
+            "attack": 449.2246659024337,
+            "health": 1266.24915576154
+        }
+    ],
+    [
+        30,
+        "80",
+        "Bates College",
+        "ME",
+        "Private not-for-profit",
+        "$51,414",
+        "$8,728",
+        "$150,500",
+        "B+",
+        {
+            "attack": 442.9824877332733,
+            "health": 1255.1854431436268
+        }
+    ],
+    [
+        31,
+        "81",
+        "Grinnell College",
+        "IA",
+        "Private not-for-profit",
+        "$42,231",
+        "$7,707",
+        "$121,900",
+        "A",
+        {
+            "attack": 436.8458409434976,
+            "health": 1244.2926287891282
+        }
+    ],
+    [
+        32,
+        "82",
+        "University of Miami (FL)",
+        "FL",
+        "Private not-for-profit",
+        "$37,322",
+        "$8,432",
+        "$120,000",
+        "B+",
+        {
+            "attack": 430.81294140075204,
+            "health": 1233.5680728774478
+        }
+    ],
+    [
+        33,
+        "83",
+        "Virginia Tech",
+        "VA",
+        "Public",
+        "$7,649",
+        "$10,100",
+        "$136,000",
+        "",
+        {
+            "attack": 424.8820351355423,
+            "health": 1223.0091763646055
+        }
+    ],
+    [
+        34,
+        "84",
+        "Stony Brook University, SUNY",
+        "NY",
+        "Public",
+        "$11,584",
+        "$7,068",
+        "$129,700",
+        "",
+        {
+            "attack": 419.0513978312958,
+            "health": 1212.6133803533703
+        }
+    ],
+    [
+        35,
+        "85",
+        "University of Connecticut",
+        "CT",
+        "Public",
+        "$14,678",
+        "$8,108",
+        "$126,000",
+        "",
+        {
+            "attack": 413.3193343230439,
+            "health": 1202.3781654731251
+        }
+    ],
+    [
+        36,
+        "86",
+        "Ohio State University",
+        "OH",
+        "Public",
+        "$10,993",
+        "$7,842",
+        "$116,900",
+        "",
+        {
+            "attack": 407.68417810458004,
+            "health": 1192.3010512693088
+        }
+    ],
+    [
+        37,
+        "87",
+        "Villanova University",
+        "PA",
+        "Private not-for-profit",
+        "$42,834",
+        "$10,781",
+        "$140,400",
+        "A",
+        {
+            "attack": 402.1442908439489,
+            "health": 1182.379595602291
+        }
+    ],
+    [
+        38,
+        "88",
+        "Wake Forest University",
+        "NC",
+        "Private not-for-profit",
+        "$54,233",
+        "$10,075",
+        "$145,200",
+        "A",
+        {
+            "attack": 396.6980619071283,
+            "health": 1172.6113940555301
+        }
+    ],
+    [
+        39,
+        "89",
+        "California State University, Long Beach",
+        "CA",
+        "Public",
+        "$9,478",
+        "$5,404",
+        "$121,700",
+        "",
+        {
+            "attack": 391.3439078897624,
+            "health": 1162.9940793528767
+        }
+    ],
+    [
+        40,
+        "90",
+        "Michigan State University",
+        "MI",
+        "Public",
+        "$8,684",
+        "$8,138",
+        "$118,800",
+        "",
+        {
+            "attack": 386.0802721568125,
+            "health": 1153.525320784873
+        }
+    ],
+    [
+        41,
+        "91",
+        "University of Rochester",
+        "NY",
+        "Private not-for-profit",
+        "$39,715",
+        "$7,198",
+        "$140,900",
+        "B-",
+        {
+            "attack": 380.90562438998967,
+            "health": 1144.2028236439191
+        }
+    ],
+    [
+        42,
+        "92",
+        "Indiana University, Bloomington",
+        "IN",
+        "Public",
+        "$10,336",
+        "$9,757",
+        "$117,300",
+        "",
+        {
+            "attack": 375.8184601428396,
+            "health": 1135.0243286681603
+        }
+    ],
+    [
+        43,
+        "93",
+        "Bucknell University",
+        "PA",
+        "Private not-for-profit",
+        "$37,775",
+        "$11,397",
+        "$155,500",
+        "B+",
+        {
+            "attack": 370.8173004033486,
+            "health": 1125.9876114939664
+        }
+    ],
+    [
+        44,
+        "94",
+        "University of Utah",
+        "UT",
+        "Public",
+        "$9,696",
+        "$8,287",
+        "$125,900",
+        "",
+        {
+            "attack": 365.90069116394415,
+            "health": 1117.0904821168688
+        }
+    ],
+    [
+        45,
+        "95",
+        "Trinity University (TX)",
+        "TX",
+        "Private not-for-profit",
+        "$33,614",
+        "$9,574",
+        "$130,600",
+        "A",
+        {
+            "attack": 361.0672029987655,
+            "health": 1108.3307843608218
+        }
+    ],
+    [
+        46,
+        "96",
+        "Babson College",
+        "MA",
+        "Private not-for-profit",
+        "$30,513",
+        "$9,137",
+        "$175,200",
+        "B+",
+        {
+            "attack": 356.3154306480811,
+            "health": 1099.7063953556656
+        }
+    ],
+    [
+        47,
+        "97",
+        "University of California, Riverside",
+        "CA",
+        "Public",
+        "$22,042",
+        "$5,140",
+        "$128,800",
+        "",
+        {
+            "attack": 351.64399260973136,
+            "health": 1091.2152250226582
+        }
+    ],
+    [
+        48,
+        "98",
+        "Clemson University",
+        "SC",
+        "Public",
+        "$10,430",
+        "$11,748",
+        "$125,200",
+        "",
+        {
+            "attack": 347.051530737479,
+            "health": 1082.8552155679545
+        }
+    ],
+    [
+        49,
+        "99",
+        "Southern Methodist University",
+        "TX",
+        "Private not-for-profit",
+        "$35,344",
+        "$12,369",
+        "$139,000",
+        "A-",
+        {
+            "attack": 342.53670984614985,
+            "health": 1074.6243409839115
+        }
+    ],
+    [
+        50,
+        "100",
+        "California State University, Fullerton",
+        "CA",
+        "Public",
+        "$9,194",
+        "$5,834",
+        "$118,200",
+        "",
+        {
+            "attack": 338.0982173234485,
+            "health": 1066.5206065580933
+        }
+    ],
+    [
+        0,
+        "101",
+        "University of Richmond",
+        "VA",
+        "Private not-for-profit",
+        "$46,385",
+        "$8,250",
+        "$129,800",
+        "B",
+        {
+            "attack": 333.73476274833797,
+            "health": 1058.5420483898633
+        }
+    ],
+    [
+        1,
+        "",
+        "Located in Virginia\u2019s capital city, the University of Richmond emphasizes hands-on experiences and a liberal arts education. The university offers over 60 undergraduate majors to a student body that totals nearly 3,900 students. Over half of the students were awarded $86 million in scholarships and institutional grants in its need-blind admissions process. Average undergraduate class sizes contain fewer than 20 students, and the university has an 8:1 undergraduate student-to-faculty ratio. Students can make the most of their college experience by exploring the state\u2019s capital city and participating in outdoor activities on the James River. UR\u2019s Richmond Spiders athletics is home to 17 Division I varsity sports teams and is the only university with a spider mascot. Students can also attend special campus events, including SpiderFest to connect with other students and organizations. Notable alumni include actor Jamie McShane, basketball coach Kevin Eastman, and former Virginia governor John Garland Pollard.\nView Profile\nAV. GRANT AID\n$46,385"
+    ],
+    [
+        2,
+        "102",
+        "Vassar College",
+        "NY",
+        "Private not-for-profit",
+        "$50,193",
+        "$6,177",
+        "$124,100",
+        "B+",
+        {
+            "attack": 329.44507751586957,
+            "health": 1050.6867329144432
+        }
+    ],
+    [
+        3,
+        "103",
+        "College of the Holy Cross",
+        "MA",
+        "Private not-for-profit",
+        "$39,615",
+        "$5,896",
+        "$138,100",
+        "B+",
+        {
+            "attack": 325.2279144683566,
+            "health": 1042.952756434321
+        }
+    ],
+    [
+        4,
+        "104",
+        "University of Colorado, Boulder",
+        "CO",
+        "Public",
+        "$10,477",
+        "$10,614",
+        "$136,500",
+        "",
+        {
+            "attack": 321.082047532783,
+            "health": 1035.3382446579003
+        }
+    ],
+    [
+        5,
+        "105",
+        "Brandeis University",
+        "MA",
+        "Private not-for-profit",
+        "$33,733",
+        "$7,017",
+        "$153,600",
+        "B",
+        {
+            "attack": 317.00627136434224,
+            "health": 1027.8413522452759
+        }
+    ],
+    [
+        6,
+        "106",
+        "University of San Diego",
+        "CA",
+        "Private not-for-profit",
+        "$36,408",
+        "$7,044",
+        "$139,000",
+        "B-",
+        {
+            "attack": 312.99940099600246,
+            "health": 1020.4602623610222
+        }
+    ],
+    [
+        7,
+        "107",
+        "University of South Florida",
+        "FL",
+        "Public",
+        "$11,066",
+        "$8,261",
+        "$110,100",
+        "",
+        {
+            "attack": 309.0602714939962,
+            "health": 1013.193186233894
+        }
+    ],
+    [
+        8,
+        "108",
+        "Syracuse University",
+        "NY",
+        "Private not-for-profit",
+        "$34,737",
+        "$10,986",
+        "$130,100",
+        "B-",
+        {
+            "attack": 305.18773761913417,
+            "health": 1006.0383627233258
+        }
+    ],
+    [
+        9,
+        "109",
+        "Arizona State University, Tempe",
+        "AZ",
+        "Public",
+        "$12,381",
+        "$8,002",
+        "$118,000",
+        "",
+        {
+            "attack": 301.38067349384573,
+            "health": 998.9940578926276
+        }
+    ],
+    [
+        10,
+        "110",
+        "University of Central Florida",
+        "FL",
+        "Public",
+        "$9,986",
+        "$6,526",
+        "$105,500",
+        "",
+        {
+            "attack": 297.63797227484736,
+            "health": 992.0585645887743
+        }
+    ],
+    [
+        11,
+        "111",
+        "Colorado College",
+        "CO",
+        "Private not-for-profit",
+        "$46,160",
+        "$6,626",
+        "$121,800",
+        "B+",
+        {
+            "attack": 293.958545831346,
+            "health": 985.2302020286854
+        }
+    ],
+    [
+        12,
+        "112",
+        "University of Arizona",
+        "AZ",
+        "Public",
+        "$15,279",
+        "$6,934",
+        "$119,300",
+        "",
+        {
+            "attack": 290.341324428682,
+            "health": 978.507315391895
+        }
+    ],
+    [
+        13,
+        "113",
+        "University of Oklahoma, Norman",
+        "OK",
+        "Public",
+        "$10,561",
+        "$9,429",
+        "$116,700",
+        "",
+        {
+            "attack": 286.7852564173213,
+            "health": 971.8882754195146
+        }
+    ],
+    [
+        14,
+        "114",
+        "Marquette University",
+        "WI",
+        "Private not-for-profit",
+        "$29,102",
+        "$9,058",
+        "$128,000",
+        "C+",
+        {
+            "attack": 283.28930792710446,
+            "health": 965.3714780193897
+        }
+    ],
+    [
+        15,
+        "115",
+        "University of Houston",
+        "TX",
+        "Public",
+        "$11,457",
+        "$6,375",
+        "$123,300",
+        "",
+        {
+            "attack": 279.85246256666574,
+            "health": 958.955343877356
+        }
+    ],
+    [
+        16,
+        "116",
+        "University of Missouri, Columbia",
+        "MO",
+        "Public",
+        "$11,545",
+        "$9,167",
+        "$119,500",
+        "",
+        {
+            "attack": 276.4737211279336,
+            "health": 952.6383180745008
+        }
+    ],
+    [
+        17,
+        "117",
+        "Auburn University",
+        "AL",
+        "Public",
+        "$9,791",
+        "$9,579",
+        "$123,300",
+        "",
+        {
+            "attack": 273.1521012956265,
+            "health": 946.4188697103351
+        }
+    ],
+    [
+        18,
+        "118",
+        "Fordham University",
+        "NY",
+        "Private not-for-profit",
+        "$33,129",
+        "$9,406",
+        "$138,500",
+        "C-",
+        {
+            "attack": 269.88663736166063,
+            "health": 940.295491531788
+        }
+    ],
+    [
+        19,
+        "119",
+        "Oregon State University",
+        "OR",
+        "Public",
+        "$9,260",
+        "$7,622",
+        "$124,000",
+        "",
+        {
+            "attack": 266.6763799443854,
+            "health": 934.2666995679305
+        }
+    ],
+    [
+        20,
+        "120",
+        "CUNY, The City College of New York",
+        "NY",
+        "Public",
+        "$9,822",
+        "$8,089",
+        "$110,500",
+        "",
+        {
+            "attack": 263.52039571256637,
+            "health": 928.3310327703434
+        }
+    ],
+    [
+        21,
+        "121",
+        "Rhodes College",
+        "TN",
+        "Private not-for-profit",
+        "$35,712",
+        "$7,444",
+        "$128,200",
+        "B-",
+        {
+            "attack": 260.41776711403344,
+            "health": 922.4870526590385
+        }
+    ],
+    [
+        22,
+        "122",
+        "Skidmore College",
+        "NY",
+        "Private not-for-profit",
+        "$45,748",
+        "$7,660",
+        "$124,000",
+        "B",
+        {
+            "attack": 257.3675921089175,
+            "health": 916.7333429738503
+        }
+    ],
+    [
+        23,
+        "123",
+        "College of New Jersey",
+        "NJ",
+        "Public",
+        "$11,826",
+        "$10,030",
+        "$122,400",
+        "",
+        {
+            "attack": 254.36898390739668,
+            "health": 911.068509331212
+        }
+    ],
+    [
+        24,
+        "124",
+        "Rensselaer Polytechnic Institute",
+        "NY",
+        "Private not-for-profit",
+        "$38,636",
+        "$10,092",
+        "$159,100",
+        "C-",
+        {
+            "attack": 251.42107071187618,
+            "health": 905.4911788862337
+        }
+    ],
+    [
+        25,
+        "125",
+        "Pepperdine University",
+        "CA",
+        "Private not-for-profit",
+        "$32,348",
+        "$8,440",
+        "$123,400",
+        "B-",
+        {
+            "attack": 248.5229954635272,
+            "health": 900.0
+        }
+    ],
+    [
+        26,
+        "126",
+        "University of Texas, Dallas",
+        "TX",
+        "Public",
+        "$14,858",
+        "$6,970",
+        "$117,400",
+        "",
+        {
+            "attack": 245.6739155931105,
+            "health": 894.5936419120069
+        }
+    ],
+    [
+        27,
+        "127",
+        "University of Delaware",
+        "DE",
+        "Public",
+        "$12,375",
+        "$10,580",
+        "$127,600",
+        "",
+        {
+            "attack": 242.8730027760131,
+            "health": 889.2707944176584
+        }
+    ],
+    [
+        28,
+        "128",
+        "University of Massachusetts, Amherst",
+        "MA",
+        "Public",
+        "$12,350",
+        "$8,481",
+        "$122,300",
+        "",
+        {
+            "attack": 240.11944269142577,
+            "health": 884.0301675507449
+        }
+    ],
+    [
+        29,
+        "129",
+        "Dickinson College",
+        "PA",
+        "Private not-for-profit",
+        "$39,554",
+        "$7,388",
+        "$115,700",
+        "B",
+        {
+            "attack": 237.41243478559247,
+            "health": 878.8704912708259
+        }
+    ],
+    [
+        30,
+        "130",
+        "CUNY, Hunter College",
+        "NY",
+        "Public",
+        "$9,325",
+        "$7,182",
+        "$113,100",
+        "",
+        {
+            "attack": 234.75119203906195,
+            "health": 873.7905151554423
+        }
+    ],
+    [
+        31,
+        "131",
+        "University of Illinois at Chicago",
+        "IL",
+        "Public",
+        "$13,813",
+        "$7,514",
+        "$121,600",
+        "",
+        {
+            "attack": 232.1349407378744,
+            "health": 868.7890080970822
+        }
+    ],
+    [
+        32,
+        "132",
+        "Loyola Marymount University",
+        "CA",
+        "Private not-for-profit",
+        "$20,901",
+        "$8,634",
+        "$144,000",
+        "B-",
+        {
+            "attack": 229.56292024861648,
+            "health": 863.864758004828
+        }
+    ],
+    [
+        33,
+        "133",
+        "University of Portland",
+        "OR",
+        "Private not-for-profit",
+        "$33,657",
+        "$7,658",
+        "$128,400",
+        "C+",
+        {
+            "attack": 227.03438279727922,
+            "health": 859.0165715106125
+        }
+    ],
+    [
+        34,
+        "134",
+        "University at Buffalo",
+        "NY",
+        "Public",
+        "$8,521",
+        "$7,839",
+        "$114,500",
+        "",
+        {
+            "attack": 224.54859325185464,
+            "health": 854.2432736800117
+        }
+    ],
+    [
+        35,
+        "135",
+        "Smith College",
+        "MA",
+        "Private not-for-profit",
+        "$49,109",
+        "$4,482",
+        "$119,900",
+        "A-",
+        {
+            "attack": 222.10482890860786,
+            "health": 849.5437077275049
+        }
+    ],
+    [
+        36,
+        "136",
+        "James Madison University",
+        "VA",
+        "Public",
+        "$10,081",
+        "$9,063",
+        "$125,700",
+        "",
+        {
+            "attack": 219.70237928196244,
+            "health": 844.9167347361333
+        }
+    ],
+    [
+        37,
+        "137",
+        "San Francisco State University",
+        "CA",
+        "Public",
+        "$9,830",
+        "$5,550",
+        "$118,700",
+        "",
+        {
+            "attack": 217.34054589793803,
+            "health": 840.3612333814899
+        }
+    ],
+    [
+        38,
+        "138",
+        "Florida International University",
+        "FL",
+        "Public",
+        "$11,087",
+        "$5,614",
+        "$106,900",
+        "",
+        {
+            "attack": 215.01864209108018,
+            "health": 835.8760996599709
+        }
+    ],
+    [
+        39,
+        "139",
+        "Louisiana State University",
+        "LA",
+        "Public",
+        "$12,374",
+        "$8,404",
+        "$119,500",
+        "",
+        {
+            "attack": 212.7359928048233,
+            "health": 831.4602466212264
+        }
+    ],
+    [
+        40,
+        "140",
+        "Kenyon College",
+        "OH",
+        "Private not-for-profit",
+        "$37,226",
+        "$7,029",
+        "$132,500",
+        "B+",
+        {
+            "attack": 210.49193439522875,
+            "health": 827.112604104743
+        }
+    ],
+    [
+        41,
+        "141",
+        "American University",
+        "DC",
+        "Private not-for-profit",
+        "$27,138",
+        "$9,129",
+        "$129,900",
+        "B-",
+        {
+            "attack": 208.28581443804086,
+            "health": 822.8321184804959
+        }
+    ],
+    [
+        42,
+        "142",
+        "University of Tennessee, Knoxville",
+        "TN",
+        "Public",
+        "$10,593",
+        "$10,094",
+        "$110,500",
+        "",
+        {
+            "attack": 206.1169915390049,
+            "health": 818.6177523936065
+        }
+    ],
+    [
+        43,
+        "143",
+        "University of Pittsburgh",
+        "PA",
+        "Public",
+        "$10,919",
+        "$10,081",
+        "$121,200",
+        "",
+        {
+            "attack": 203.98483514739212,
+            "health": 814.4684845129445
+        }
+    ],
+    [
+        44,
+        "144",
+        "Washington State University",
+        "WA",
+        "Public",
+        "$10,689",
+        "$6,714",
+        "$124,000",
+        "",
+        {
+            "attack": 201.88872537267707,
+            "health": 810.3833092836136
+        }
+    ],
+    [
+        45,
+        "145",
+        "Colby College",
+        "ME",
+        "Private not-for-profit",
+        "$61,714",
+        "$8,426",
+        "$128,500",
+        "B+",
+        {
+            "attack": 199.82805280431415,
+            "health": 806.3612366832597
+        }
+    ],
+    [
+        46,
+        "146",
+        "Drexel University",
+        "PA",
+        "Private not-for-profit",
+        "$33,861",
+        "$10,865",
+        "$132,600",
+        "C-",
+        {
+            "attack": 197.8022183345614,
+            "health": 802.4012919821441
+        }
+    ],
+    [
+        47,
+        "147",
+        "Tulane University",
+        "LA",
+        "Private not-for-profit",
+        "$30,747",
+        "$8,283",
+        "$133,200",
+        "A",
+        {
+            "attack": 195.8106329842994,
+            "health": 798.5025155069226
+        }
+    ],
+    [
+        48,
+        "148",
+        "University of Oregon",
+        "OR",
+        "Public",
+        "$9,767",
+        "$7,821",
+        "$119,500",
+        "",
+        {
+            "attack": 193.85271773179494,
+            "health": 794.6639624080726
+        }
+    ],
+    [
+        49,
+        "149",
+        "Furman University",
+        "SC",
+        "Private not-for-profit",
+        "$36,384",
+        "$7,962",
+        "$121,000",
+        "B",
+        {
+            "attack": 191.92790334435966,
+            "health": 790.8847024309146
+        }
+    ],
+    [
+        50,
+        "150",
+        "Stevens Institute of Technology",
+        "NJ",
+        "Private not-for-profit",
+        "$31,949",
+        "$10,599",
+        "$168,700",
+        "C",
+        {
+            "attack": 190.03563021285473,
+            "health": 787.1638196901683
+        }
+    ],
+    [
+        0,
+        "151",
+        "University of Kansas",
+        "KS",
+        "Public",
+        "$11,140",
+        "$6,880",
+        "$118,100",
+        "",
+        {
+            "attack": 188.17534818899344,
+            "health": 783.5004124479933
+        }
+    ],
+    [
+        1,
+        "",
+        "The University of Kansas is the state\u2019s flagship research university. Located in Lawrence, Kan., it operates a total of five campuses and boasts a community of nearly 30,000 enrolled students. KU offers over 200 undergraduate fields of study across more than 15 schools and departments. Communications and nursing are among the most popular programs, along with finance and psychology. Prided on research, KU reported more than $300 million in external research funding and is a proud member of the Association of American Universities, comprising around 70 of the nation's leading research institutions. The university awards $391 million each year in financial aid, and nearly 70% of students receive financial support. Students can choose from more than 500 KU student organizations. The Jayhawks play in 16 varsity NCAA Division I teams in the Big 12 conference. Jayhawk campus traditions include the spirited rock chalk chant\u2014the university\u2019s historic cheer, and they \u201cwave the wheat,\u201d or their arms, during game time. Notable alumni include basketball great Wilt Chamberlain, actor Paul Rudd and former Health and Human Services Secretary Kathleen Sebelius.\nView Profile\nAV. GRANT AID\n$11,140"
+    ],
+    [
+        2,
+        "152",
+        "Baylor University",
+        "TX",
+        "Private not-for-profit",
+        "$22,553",
+        "$14,404",
+        "$123,300",
+        "A-",
+        {
+            "attack": 186.34651642539427,
+            "health": 779.8935928954563
+        }
+    ],
+    [
+        3,
+        "153",
+        "Gonzaga University",
+        "WA",
+        "Private not-for-profit",
+        "$27,601",
+        "$8,172",
+        "$133,500",
+        "B-",
+        {
+            "attack": 184.5486032183382,
+            "health": 776.342486937376
+        }
+    ],
+    [
+        4,
+        "154",
+        "Iowa State University",
+        "IA",
+        "Public",
+        "$11,043",
+        "$7,620",
+        "$118,800",
+        "",
+        {
+            "attack": 182.78108585318424,
+            "health": 772.8462339804893
+        }
+    ],
+    [
+        5,
+        "155",
+        "University of Iowa",
+        "IA",
+        "Public",
+        "$9,959",
+        "$8,853",
+        "$119,800",
+        "",
+        {
+            "attack": 181.04345045239853,
+            "health": 769.4039867248915
+        }
+    ],
+    [
+        6,
+        "156",
+        "SUNY, Geneseo",
+        "NY",
+        "Public",
+        "$8,089",
+        "$7,088",
+        "$116,500",
+        "",
+        {
+            "attack": 179.3351918261526,
+            "health": 766.0149109586971
+        }
+    ],
+    [
+        7,
+        "157",
+        "University of Denver",
+        "CO",
+        "Private not-for-profit",
+        "$30,954",
+        "$7,961",
+        "$129,700",
+        "B-",
+        {
+            "attack": 177.6558133254475,
+            "health": 762.6781853558724
+        }
+    ],
+    [
+        8,
+        "158",
+        "University of Arkansas",
+        "AR",
+        "Public",
+        "$8,474",
+        "$8,350",
+        "$114,800",
+        "",
+        {
+            "attack": 176.00482669772097,
+            "health": 759.3930012771913
+        }
+    ],
+    [
+        9,
+        "159",
+        "Elon University",
+        "NC",
+        "Private not-for-profit",
+        "$13,880",
+        "$9,977",
+        "$110,100",
+        "B-",
+        {
+            "attack": 174.38175194489583,
+            "health": 756.1585625742653
+        }
+    ],
+    [
+        10,
+        "160",
+        "University of Kentucky",
+        "KY",
+        "Public",
+        "$14,114",
+        "$8,420",
+        "$111,700",
+        "",
+        {
+            "attack": 172.78611718382808,
+            "health": 752.9740853966013
+        }
+    ],
+    [
+        11,
+        "161",
+        "Connecticut College",
+        "CT",
+        "Private not-for-profit",
+        "$36,355",
+        "$9,595",
+        "$125,200",
+        "B-",
+        {
+            "attack": 171.21745850911458,
+            "health": 749.8387980016387
+        }
+    ],
+    [
+        12,
+        "162",
+        "Saint Louis University",
+        "MO",
+        "Private not-for-profit",
+        "$37,006",
+        "$7,390",
+        "$110,500",
+        "B-",
+        {
+            "attack": 169.67531985821972,
+            "health": 746.7519405677217
+        }
+    ],
+    [
+        13,
+        "163",
+        "University of South Carolina",
+        "SC",
+        "Public",
+        "$6,880",
+        "$9,631",
+        "$104,900",
+        "",
+        {
+            "attack": 168.15925287888263,
+            "health": 743.7127650099599
+        }
+    ],
+    [
+        14,
+        "164",
+        "CUNY, Brooklyn College",
+        "NY",
+        "Public",
+        "$9,411",
+        "$5,422",
+        "$118,600",
+        "",
+        {
+            "attack": 166.66881679876582,
+            "health": 740.7205347989338
+        }
+    ],
+    [
+        15,
+        "165",
+        "University of San Francisco",
+        "CA",
+        "Private not-for-profit",
+        "$30,916",
+        "$9,671",
+        "$133,600",
+        "C-",
+        {
+            "attack": 165.20357829730784,
+            "health": 737.7745247822007
+        }
+    ],
+    [
+        16,
+        "166",
+        "Worcester Polytechnic Institute",
+        "MA",
+        "Private not-for-profit",
+        "$27,059",
+        "$14,168",
+        "$161,000",
+        "C+",
+        {
+            "attack": 163.76311137974184,
+            "health": 734.8740210085571
+        }
+    ],
+    [
+        17,
+        "167",
+        "University of Nevada-Reno",
+        "NV",
+        "Public",
+        "$7,829",
+        "$6,624",
+        "$111,200",
+        "",
+        {
+            "attack": 162.34699725324487,
+            "health": 732.0183205550159
+        }
+    ],
+    [
+        18,
+        "168",
+        "Sonoma State University",
+        "CA",
+        "Public",
+        "$7,287",
+        "$6,350",
+        "$119,500",
+        "",
+        {
+            "attack": 160.95482420518,
+            "health": 729.2067313564572
+        }
+    ],
+    [
+        19,
+        "169",
+        "University of Dayton",
+        "OH",
+        "Private not-for-profit",
+        "$31,920",
+        "$10,921",
+        "$127,300",
+        "B",
+        {
+            "attack": 159.5861874833979,
+            "health": 726.4385720379092
+        }
+    ],
+    [
+        20,
+        "170",
+        "DePauw University",
+        "IN",
+        "Private not-for-profit",
+        "$41,067",
+        "$5,055",
+        "$120,200",
+        "B-",
+        {
+            "attack": 158.24068917856135,
+            "health": 723.7131717494204
+        }
+    ],
+    [
+        21,
+        "171",
+        "Oklahoma State University",
+        "OK",
+        "Public",
+        "$10,621",
+        "$7,170",
+        "$117,200",
+        "",
+        {
+            "attack": 156.9179381084594,
+            "health": 721.0298700034821
+        }
+    ],
+    [
+        22,
+        "172",
+        "University of Hawaii, Manoa",
+        "HI",
+        "Public",
+        "$7,954",
+        "$6,943",
+        "$110,800",
+        "",
+        {
+            "attack": 155.61754970427756,
+            "health": 718.3880165149629
+        }
+    ],
+    [
+        23,
+        "173",
+        "Manhattan University",
+        "NY",
+        "Private not-for-profit",
+        "$31,882",
+        "$7,319",
+        "$152,400",
+        "C-",
+        {
+            "attack": 154.33914589879026,
+            "health": 715.786971043515
+        }
+    ],
+    [
+        24,
+        "174",
+        "Towson University",
+        "MD",
+        "Public",
+        "$11,415",
+        "$6,906",
+        "$111,700",
+        "",
+        {
+            "attack": 153.08235501644418,
+            "health": 713.2261032384151
+        }
+    ],
+    [
+        25,
+        "175",
+        "Saint Mary's College of California",
+        "CA",
+        "Private not-for-profit",
+        "$39,139",
+        "$6,934",
+        "$144,600",
+        "C-",
+        {
+            "attack": 151.84681166529919,
+            "health": 710.7047924858019
+        }
+    ],
+    [
+        26,
+        "176",
+        "St. Lawrence University",
+        "NY",
+        "Private not-for-profit",
+        "$44,093",
+        "$7,932",
+        "$130,900",
+        "B-",
+        {
+            "attack": 150.63215663079666,
+            "health": 708.2224277582739
+        }
+    ],
+    [
+        27,
+        "177",
+        "Reed College",
+        "OR",
+        "Private not-for-profit",
+        "$47,864",
+        "$6,315",
+        "$138,400",
+        "B",
+        {
+            "attack": 149.4380367713234,
+            "health": 705.7784074668085
+        }
+    ],
+    [
+        28,
+        "178",
+        "Kalamazoo College",
+        "MI",
+        "Private not-for-profit",
+        "$41,855",
+        "$7,426",
+        "$129,500",
+        "B-",
+        {
+            "attack": 148.26410491554145,
+            "health": 703.3721393149717
+        }
+    ],
+    [
+        29,
+        "179",
+        "Creighton University",
+        "NE",
+        "Private not-for-profit",
+        "$26,918",
+        "$8,720",
+        "$112,500",
+        "B-",
+        {
+            "attack": 147.11001976145354,
+            "health": 701.0030401553767
+        }
+    ],
+    [
+        30,
+        "180",
+        "Bryn Mawr College",
+        "PA",
+        "Private not-for-profit",
+        "$36,618",
+        "$6,470",
+        "$118,000",
+        "A+",
+        {
+            "attack": 145.9754457771749,
+            "health": 698.6705358483607
+        }
+    ],
+    [
+        31,
+        "181",
+        "University of Vermont",
+        "VT",
+        "Public",
+        "$19,189",
+        "$9,995",
+        "$120,400",
+        "",
+        {
+            "attack": 144.86005310338282,
+            "health": 696.3740611228463
+        }
+    ],
+    [
+        32,
+        "182",
+        "University of Alabama",
+        "AL",
+        "Public",
+        "$15,683",
+        "$10,694",
+        "$113,100",
+        "",
+        {
+            "attack": 143.76351745741516,
+            "health": 694.1130594393495
+        }
+    ],
+    [
+        33,
+        "183",
+        "Kansas State University",
+        "KS",
+        "Public",
+        "$8,537",
+        "$6,911",
+        "$114,800",
+        "",
+        {
+            "attack": 142.68552003899043,
+            "health": 691.8869828551057
+        }
+    ],
+    [
+        34,
+        "184",
+        "Harvey Mudd College",
+        "CA",
+        "Private not-for-profit",
+        "$42,386",
+        "$7,481",
+        "$179,600",
+        "B+",
+        {
+            "attack": 141.62574743752168,
+            "health": 689.6952918912781
+        }
+    ],
+    [
+        35,
+        "185",
+        "California State University, Fresno",
+        "CA",
+        "Public",
+        "$9,968",
+        "$5,178",
+        "$118,600",
+        "",
+        {
+            "attack": 140.58389154099734,
+            "health": 687.5374554022183
+        }
+    ],
+    [
+        36,
+        "186",
+        "Bentley University",
+        "MA",
+        "Private not-for-profit",
+        "$30,733",
+        "$11,610",
+        "$144,800",
+        "C+",
+        {
+            "attack": 139.5596494464025,
+            "health": 685.4129504467446
+        }
+    ],
+    [
+        37,
+        "187",
+        "University of California, Santa Cruz",
+        "CA",
+        "Public",
+        "$21,202",
+        "$6,519",
+        "$132,000",
+        "",
+        {
+            "attack": 138.55272337165474,
+            "health": 683.321262161411
+        }
+    ],
+    [
+        38,
+        "188",
+        "Florida Atlantic University",
+        "FL",
+        "Public",
+        "$10,334",
+        "$6,926",
+        "$106,300",
+        "",
+        {
+            "attack": 137.56282056902884,
+            "health": 681.2618836357316
+        }
+    ],
+    [
+        39,
+        "189",
+        "University of Wyoming",
+        "WY",
+        "Public",
+        "$8,942",
+        "$8,184",
+        "$109,800",
+        "",
+        {
+            "attack": 136.5896532400448,
+            "health": 679.2343157893338
+        }
+    ],
+    [
+        40,
+        "190",
+        "Wofford College",
+        "SC",
+        "Private not-for-profit",
+        "$36,005",
+        "$8,264",
+        "$129,400",
+        "B-",
+        {
+            "attack": 135.63293845179527,
+            "health": 677.2380672510083
+        }
+    ],
+    [
+        41,
+        "191",
+        "University of Nebraska, Lincoln",
+        "NE",
+        "Public",
+        "$10,941",
+        "$6,553",
+        "$117,000",
+        "",
+        {
+            "attack": 134.69239805468698,
+            "health": 675.2726542396281
+        }
+    ],
+    [
+        42,
+        "192",
+        "Temple University",
+        "PA",
+        "Public",
+        "$11,575",
+        "$10,571",
+        "$113,900",
+        "",
+        {
+            "attack": 133.7677586015736,
+            "health": 673.3376004469059
+        }
+    ],
+    [
+        43,
+        "193",
+        "New Jersey Institute of Technology",
+        "NJ",
+        "Public",
+        "$15,959",
+        "$7,478",
+        "$146,500",
+        "",
+        {
+            "attack": 132.858751268255,
+            "health": 671.4324369219636
+        }
+    ],
+    [
+        44,
+        "194",
+        "Virginia Military Institute",
+        "VA",
+        "Public",
+        "$19,111",
+        "$6,390",
+        "$145,300",
+        "",
+        {
+            "attack": 131.96511177532096,
+            "health": 669.5567019576843
+        }
+    ],
+    [
+        45,
+        "195",
+        "Hobart and William Smith Colleges",
+        "NY",
+        "Private not-for-profit",
+        "$44,331",
+        "$8,228",
+        "$132,900",
+        "C+",
+        {
+            "attack": 131.08658031131634,
+            "health": 667.7099409788194
+        }
+    ],
+    [
+        46,
+        "196",
+        "Pennsylvania State University-Main Campus",
+        "PA",
+        "Public",
+        "$10,066",
+        "$13,414",
+        "",
+        "",
+        {
+            "attack": 130.22290145720473,
+            "health": 665.891706431825
+        }
+    ],
+    [
+        47,
+        "197",
+        "Oberlin College",
+        "OH",
+        "Private not-for-profit",
+        "$35,040",
+        "$5,013",
+        "$116,100",
+        "B",
+        {
+            "attack": 129.37382411210965,
+            "health": 664.1015576763992
+        }
+    ],
+    [
+        48,
+        "198",
+        "Miami University (OH)",
+        "OH",
+        "Public",
+        "$14,752",
+        "$8,909",
+        "$132,800",
+        "",
+        {
+            "attack": 128.53910142031089,
+            "health": 662.3390608786952
+        }
+    ],
+    [
+        49,
+        "199",
+        "CUNY, Queens College",
+        "NY",
+        "Public",
+        "$7,927",
+        "$5,089",
+        "$114,300",
+        "",
+        {
+            "attack": 127.71849069947515,
+            "health": 660.6037889061836
+        }
+    ],
+    [
+        50,
+        "200",
+        "Chapman University",
+        "CA",
+        "Private not-for-profit",
+        "$33,510",
+        "$7,312",
+        "$116,400",
+        "B",
+        {
+            "attack": 126.91175337010006,
+            "health": 658.895321224139
+        }
+    ],
+    [
+        0,
+        "201",
+        "The Citadel",
+        "SC",
+        "Public",
+        "$11,428",
+        "$13,093",
+        "$132,300",
+        "",
+        {
+            "attack": 126.11865488615084,
+            "health": 657.2132437937255
+        }
+    ],
+    [
+        1,
+        "",
+        "The Citadel is a public military college that stands on its core values of honor, duty, and respect. Situated in Charleston, S.C., the college is best known for the South Carolina Corps of Cadets, of which 2,300 undergraduate students are members. The Citadel offers students more than 30 undergraduate majors to choose from, with popular programs in business administration and engineering. While cadets are not required to serve in the military, they are heavily immersed in the military lifestyle and must complete a course each semester in one of four ROTC programs: Air Force, Army, Marines or Navy. At the time of graduation, more than 84% of cadets were employed, pursuing graduate school, or serving in the military. The Citadel Bulldogs are members of the Southern Conference, competing at the Division I level. Students follow several long-standing Citadel traditions, like wearing a ring that symbolizes freedom earned through battle dating back to the American Civil War.\nView Profile\nAV. GRANT AID\n$11,428"
+    ],
+    [
+        2,
+        "202",
+        "St. John's University (NY)",
+        "NY",
+        "Private not-for-profit",
+        "$32,626",
+        "$7,990",
+        "$127,100",
+        "C",
+        {
+            "attack": 125.33896466686997,
+            "health": 655.5571489716564
+        }
+    ],
+    [
+        3,
+        "203",
+        "University of Detroit Mercy",
+        "MI",
+        "Private not-for-profit",
+        "$21,483",
+        "$6,320",
+        "$107,000",
+        "D",
+        {
+            "attack": 124.57245602973939,
+            "health": 653.9266354114038
+        }
+    ],
+    [
+        4,
+        "204",
+        "California State University, Chico",
+        "CA",
+        "Public",
+        "$9,162",
+        "$5,538",
+        "$132,000",
+        "",
+        {
+            "attack": 123.81890612457619,
+            "health": 652.3213079659342
+        }
+    ],
+    [
+        5,
+        "205",
+        "Texas Tech University",
+        "TX",
+        "Public",
+        "$9,359",
+        "$8,346",
+        "$125,200",
+        "",
+        {
+            "attack": 123.07809586874242,
+            "health": 650.7407775919467
+        }
+    ],
+    [
+        6,
+        "206",
+        "Kettering University",
+        "MI",
+        "Private not-for-profit",
+        "$24,697",
+        "$12,071",
+        "$144,000",
+        "C",
+        {
+            "attack": 122.34980988345043,
+            "health": 649.1846612555897
+        }
+    ],
+    [
+        7,
+        "207",
+        "California State University, Northridge",
+        "CA",
+        "Public",
+        "$10,511",
+        "$5,462",
+        "$117,300",
+        "",
+        {
+            "attack": 121.63383643114477,
+            "health": 647.6525818396354
+        }
+    ],
+    [
+        8,
+        "208",
+        "Rhode Island School of Design",
+        "RI",
+        "Private not-for-profit",
+        "$37,480",
+        "$7,148",
+        "$122,100",
+        "B",
+        {
+            "attack": 120.92996735394297,
+            "health": 646.1441680520866
+        }
+    ],
+    [
+        9,
+        "209",
+        "University of North Texas",
+        "TX",
+        "Public",
+        "$9,159",
+        "$6,289",
+        "$110,000",
+        "",
+        {
+            "attack": 120.23799801311691,
+            "health": 644.6590543361958
+        }
+    ],
+    [
+        10,
+        "210",
+        "University of Maryland, Baltimore County",
+        "MD",
+        "Public",
+        "$8,889",
+        "$6,654",
+        "$121,200",
+        "",
+        {
+            "attack": 119.55772722959736,
+            "health": 643.196880781875
+        }
+    ],
+    [
+        11,
+        "211",
+        "Loyola University Chicago",
+        "IL",
+        "Private not-for-profit",
+        "$26,796",
+        "$9,442",
+        "$121,900",
+        "C+",
+        {
+            "attack": 118.88895722548435,
+            "health": 641.7572930384727
+        }
+    ],
+    [
+        12,
+        "212",
+        "University of Washington Bothell",
+        "WA",
+        "Public",
+        "$15,474",
+        "$4,651",
+        "$132,900",
+        "",
+        {
+            "attack": 118.23149356654646,
+            "health": 640.3399422288987
+        }
+    ],
+    [
+        13,
+        "213",
+        "Calvin University",
+        "MI",
+        "Private not-for-profit",
+        "$26,448",
+        "$7,486",
+        "$110,300",
+        "B-",
+        {
+            "attack": 117.58514510569213,
+            "health": 638.9444848650758
+        }
+    ],
+    [
+        14,
+        "214",
+        "Wabash College",
+        "IN",
+        "Private not-for-profit",
+        "$37,119",
+        "$7,844",
+        "$140,900",
+        "B+",
+        {
+            "attack": 116.94972392739666,
+            "health": 637.5705827646966
+        }
+    ],
+    [
+        15,
+        "215",
+        "Western Washington University",
+        "WA",
+        "Public",
+        "$6,522",
+        "$6,936",
+        "$123,600",
+        "",
+        {
+            "attack": 116.32504529306878,
+            "health": 636.2179029692676
+        }
+    ],
+    [
+        16,
+        "216",
+        "Samford University",
+        "AL",
+        "Private not-for-profit",
+        "$20,711",
+        "$7,815",
+        "$104,600",
+        "B+",
+        {
+            "attack": 115.71092758734088,
+            "health": 634.886117663417
+        }
+    ],
+    [
+        17,
+        "217",
+        "University of Mississippi",
+        "MS",
+        "Public",
+        "$13,720",
+        "$10,144",
+        "$102,800",
+        "",
+        {
+            "attack": 115.10719226526716,
+            "health": 633.5749040954514
+        }
+    ],
+    [
+        18,
+        "218",
+        "Scripps College",
+        "CA",
+        "Private not-for-profit",
+        "$21,143",
+        "$5,351",
+        "$111,300",
+        "A",
+        {
+            "attack": 114.5136638004146,
+            "health": 632.283944499138
+        }
+    ],
+    [
+        19,
+        "219",
+        "DePaul University",
+        "IL",
+        "Private not-for-profit",
+        "$26,004",
+        "$7,204",
+        "$126,700",
+        "C",
+        {
+            "attack": 113.93016963383144,
+            "health": 631.0129260166955
+        }
+    ],
+    [
+        20,
+        "220",
+        "Texas Christian University",
+        "TX",
+        "Private not-for-profit",
+        "$28,048",
+        "$14,299",
+        "$119,600",
+        "A+",
+        {
+            "attack": 113.35654012387833,
+            "health": 629.7615406229745
+        }
+    ],
+    [
+        21,
+        "221",
+        "Seton Hall University",
+        "NJ",
+        "Private not-for-profit",
+        "$29,443",
+        "$11,822",
+        "$122,900",
+        "C-",
+        {
+            "attack": 112.79260849690783,
+            "health": 628.5294850508094
+        }
+    ],
+    [
+        22,
+        "222",
+        "Carleton College",
+        "MN",
+        "Private not-for-profit",
+        "$46,821",
+        "$4,492",
+        "$141,500",
+        "A-",
+        {
+            "attack": 112.23821079877759,
+            "health": 627.3164607175227
+        }
+    ],
+    [
+        23,
+        "223",
+        "Drake University",
+        "IA",
+        "Private not-for-profit",
+        "$31,274",
+        "$8,953",
+        "$122,300",
+        "C-",
+        {
+            "attack": 111.69318584718322,
+            "health": 626.1221736525649
+        }
+    ],
+    [
+        24,
+        "224",
+        "Wheaton College (IL)",
+        "IL",
+        "Private not-for-profit",
+        "$24,272",
+        "$6,429",
+        "$127,200",
+        "A-",
+        {
+            "attack": 111.15737518479722,
+            "health": 624.9463344262731
+        }
+    ],
+    [
+        25,
+        "225",
+        "University of North Carolina, Charlotte",
+        "NC",
+        "Public",
+        "$7,907",
+        "$7,127",
+        "$111,700",
+        "",
+        {
+            "attack": 110.63062303319998,
+            "health": 623.7886580797276
+        }
+    ],
+    [
+        26,
+        "226",
+        "Embry-Riddle Aeronautical University, Daytona Beach",
+        "FL",
+        "Private not-for-profit",
+        "$20,372",
+        "$15,475",
+        "$129,100",
+        "B",
+        {
+            "attack": 110.11277624758965,
+            "health": 622.6488640556947
+        }
+    ],
+    [
+        27,
+        "227",
+        "California State University, Los Angeles",
+        "CA",
+        "Public",
+        "$10,907",
+        "$5,227",
+        "$111,600",
+        "",
+        {
+            "attack": 109.6036842722578,
+            "health": 621.5266761306348
+        }
+    ],
+    [
+        28,
+        "228",
+        "George Mason University",
+        "VA",
+        "Public",
+        "$10,760",
+        "$8,079",
+        "$128,200",
+        "",
+        {
+            "attack": 109.10319909681766,
+            "health": 620.4218223477601
+        }
+    ],
+    [
+        29,
+        "229",
+        "Rose-Hulman Institute of Technology",
+        "IN",
+        "Private not-for-profit",
+        "$30,973",
+        "$12,038",
+        "$161,500",
+        "C+",
+        {
+            "attack": 108.61117521317254,
+            "health": 619.3340349511286
+        }
+    ],
+    [
+        30,
+        "230",
+        "Bradley University",
+        "IL",
+        "Private not-for-profit",
+        "$26,693",
+        "$7,299",
+        "$123,500",
+        "C",
+        {
+            "attack": 108.12746957321164,
+            "health": 618.2630503207537
+        }
+    ],
+    [
+        31,
+        "231",
+        "Colorado School of Mines",
+        "CO",
+        "Public",
+        "$10,614",
+        "$8,866",
+        "$165,700",
+        "",
+        {
+            "attack": 107.65194154722104,
+            "health": 617.2086089087175
+        }
+    ],
+    [
+        32,
+        "232",
+        "Gustavus Adolphus College",
+        "MN",
+        "Private not-for-profit",
+        "$32,808",
+        "$9,438",
+        "$118,900",
+        "B+",
+        {
+            "attack": 107.1844528829979,
+            "health": 616.1704551762706
+        }
+    ],
+    [
+        33,
+        "233",
+        "Pacific Lutheran University",
+        "WA",
+        "Private not-for-profit",
+        "$36,435",
+        "$7,547",
+        "$120,600",
+        "D",
+        {
+            "attack": 106.72486766565584,
+            "health": 615.1483375319036
+        }
+    ],
+    [
+        34,
+        "234",
+        "University of North Dakota",
+        "ND",
+        "Public",
+        "$6,387",
+        "$11,927",
+        "$114,700",
+        "",
+        {
+            "attack": 106.27305227810982,
+            "health": 614.1420082703753
+        }
+    ],
+    [
+        35,
+        "235",
+        "San Jose State University",
+        "CA",
+        "Public",
+        "$9,210",
+        "$5,592",
+        "$137,200",
+        "",
+        {
+            "attack": 105.82887536222913,
+            "health": 613.151223512682
+        }
+    ],
+    [
+        36,
+        "236",
+        "West Virginia University",
+        "WV",
+        "Public",
+        "$11,685",
+        "$9,613",
+        "$118,200",
+        "",
+        {
+            "attack": 105.39220778064704,
+            "health": 612.175743146955
+        }
+    ],
+    [
+        37,
+        "237",
+        "Utah State University",
+        "UT",
+        "Public",
+        "$9,808",
+        "$6,445",
+        "$112,300",
+        "",
+        {
+            "attack": 104.96292257921625,
+            "health": 611.2153307702707
+        }
+    ],
+    [
+        38,
+        "238",
+        "Case Western Reserve University",
+        "OH",
+        "Private not-for-profit",
+        "$35,452",
+        "$6,836",
+        "$142,300",
+        "B+",
+        {
+            "attack": 104.54089495009897,
+            "health": 610.2697536313592
+        }
+    ],
+    [
+        39,
+        "239",
+        "Union College (NY)",
+        "NY",
+        "Private not-for-profit",
+        "$37,530",
+        "$8,270",
+        "$153,300",
+        "B-",
+        {
+            "attack": 104.126002195481,
+            "health": 609.3387825741985
+        }
+    ],
+    [
+        40,
+        "240",
+        "Franklin and Marshall College",
+        "PA",
+        "Private not-for-profit",
+        "$49,177",
+        "$8,059",
+        "$144,300",
+        "B-",
+        {
+            "attack": 103.71812369189927,
+            "health": 608.4221919824795
+        }
+    ],
+    [
+        41,
+        "241",
+        "Virginia Commonwealth University",
+        "VA",
+        "Public",
+        "$12,583",
+        "$7,807",
+        "$104,800",
+        "",
+        {
+            "attack": 103.31714085517258,
+            "health": 607.5197597249287
+        }
+    ],
+    [
+        42,
+        "242",
+        "Illinois Institute of Technology",
+        "IL",
+        "Private not-for-profit",
+        "$40,243",
+        "$7,227",
+        "$142,900",
+        "C-",
+        {
+            "attack": 102.92293710592507,
+            "health": 606.6312671014764
+        }
+    ],
+    [
+        43,
+        "243",
+        "Clarkson University",
+        "NY",
+        "Private not-for-profit",
+        "$41,285",
+        "$9,150",
+        "$157,700",
+        "C-",
+        {
+            "attack": 102.53539783569265,
+            "health": 605.7564987902554
+        }
+    ],
+    [
+        44,
+        "244",
+        "Mount Holyoke College",
+        "MA",
+        "Private not-for-profit",
+        "$39,304",
+        "$6,098",
+        "$113,600",
+        "B",
+        {
+            "attack": 102.15441037360236,
+            "health": 604.8952427954187
+        }
+    ],
+    [
+        45,
+        "245",
+        "University of Cincinnati",
+        "OH",
+        "Public",
+        "$8,733",
+        "$8,696",
+        "$113,600",
+        "",
+        {
+            "attack": 101.77986395361516,
+            "health": 604.0472903957633
+        }
+    ],
+    [
+        46,
+        "246",
+        "University of Massachusetts Lowell",
+        "MA",
+        "Public",
+        "$11,983",
+        "$7,166",
+        "$129,400",
+        "",
+        {
+            "attack": 101.4116496823225,
+            "health": 603.2124360941483
+        }
+    ],
+    [
+        47,
+        "247",
+        "Florida Gulf Coast University",
+        "FL",
+        "Public",
+        "$7,268",
+        "$9,405",
+        "$102,600",
+        "",
+        {
+            "attack": 101.04966050728721,
+            "health": 602.3904775676929
+        }
+    ],
+    [
+        48,
+        "248",
+        "Seattle University",
+        "WA",
+        "Private not-for-profit",
+        "$30,917",
+        "$7,347",
+        "$139,600",
+        "C-",
+        {
+            "attack": 100.69379118591975,
+            "health": 601.5812156187445
+        }
+    ],
+    [
+        49,
+        "249",
+        "Occidental College",
+        "CA",
+        "Private not-for-profit",
+        "$33,025",
+        "$8,272",
+        "$141,100",
+        "B+",
+        {
+            "attack": 100.34393825488061,
+            "health": 600.7844541266048
+        }
+    ],
+    [
+        50,
+        "250",
+        "Mississippi State University",
+        "MS",
+        "Public",
+        "$14,252",
+        "$7,253",
+        "$111,000",
+        "",
+        {
+            "attack": 100.0,
+            "health": 600.0
+        }
+    ],
+    [
+        0,
+        "251",
+        "Truman State University",
+        "MO",
+        "Public",
+        "$9,961",
+        "$6,246",
+        "$106,800",
+        "",
+        {
+            "attack": 99.66187642670602,
+            "health": 599.2276631302867
+        }
+    ],
+    [
+        1,
+        "",
+        "Truman State University is a public university in Kirksville, Missouri, named for U.S. president and Missouri native Harry Truman. Previously known as Northeast Missouri State University, the school was renamed Truman State in 1996. To honor its former names, the weathervane on the campus\u2019s Kirk Memorial is welded to permanently face northeast. Truman offers more than 40 majors. Majors include agricultural science, cannabis and natural medicinals, communication disorders and music therapy. The university is home to a human anatomy lab that exercise science and health science students have the opportunity to use. The lab includes human cadavers and an array of human organs and bones. Jenna Fischer, star of \u201cThe Office,\u201d graduated from the university with a bachelor of arts in theater.\nView Profile\nAV. GRANT AID\n$9,961"
+    ],
+    [
+        2,
+        "252",
+        "University of Louisville",
+        "KY",
+        "Public",
+        "$12,216",
+        "$7,490",
+        "$100,700",
+        "",
+        {
+            "attack": 99.3294692309529,
+            "health": 598.4672563453798
+        }
+    ],
+    [
+        3,
+        "253",
+        "University of Texas, Arlington",
+        "TX",
+        "Public",
+        "$11,370",
+        "$5,959",
+        "$117,700",
+        "",
+        {
+            "attack": 99.00268177064059,
+            "health": 597.7185953643922
+        }
+    ],
+    [
+        4,
+        "254",
+        "Illinois State University",
+        "IL",
+        "Public",
+        "$11,619",
+        "$7,247",
+        "$112,700",
+        "",
+        {
+            "attack": 98.68141903751773,
+            "health": 596.9814987529751
+        }
+    ],
+    [
+        5,
+        "255",
+        "California State Polytechnic University, Pomona",
+        "CA",
+        "Public",
+        "$9,040",
+        "$6,028",
+        "$133,900",
+        "",
+        {
+            "attack": 98.36558762955934,
+            "health": 596.2557878793489
+        }
+    ],
+    [
+        6,
+        "256",
+        "Appalachian State University",
+        "NC",
+        "Public",
+        "$7,443",
+        "$7,207",
+        "$99,800",
+        "",
+        {
+            "attack": 98.05509572381182,
+            "health": 595.5412868710117
+        }
+    ],
+    [
+        7,
+        "257",
+        "Clark University (MA)",
+        "MA",
+        "Private not-for-profit",
+        "$29,716",
+        "$8,346",
+        "$132,600",
+        "B-",
+        {
+            "attack": 97.74985304969681,
+            "health": 594.8378225721183
+        }
+    ],
+    [
+        8,
+        "258",
+        "Salisbury University",
+        "MD",
+        "Public",
+        "$6,917",
+        "$7,707",
+        "$103,000",
+        "",
+        {
+            "attack": 97.44977086276648,
+            "health": 594.145224501516
+        }
+    ],
+    [
+        9,
+        "259",
+        "University of Wisconsin, Eau Claire",
+        "WI",
+        "Public",
+        "$4,251",
+        "$7,354",
+        "$108,900",
+        "",
+        {
+            "attack": 97.1547619189025,
+            "health": 593.4633248114303
+        }
+    ],
+    [
+        10,
+        "260",
+        "Hope College",
+        "MI",
+        "Private not-for-profit",
+        "$24,880",
+        "$7,428",
+        "$108,000",
+        "C+",
+        {
+            "attack": 96.86474044895115,
+            "health": 592.7919582467864
+        }
+    ],
+    [
+        11,
+        "261",
+        "Bryant University",
+        "RI",
+        "Private not-for-profit",
+        "$25,615",
+        "$13,242",
+        "$128,000",
+        "C+",
+        {
+            "attack": 96.57962213378741,
+            "health": 592.1309621051619
+        }
+    ],
+    [
+        12,
+        "262",
+        "Sewanee\u2014University of the South",
+        "TN",
+        "Private not-for-profit",
+        "$34,241",
+        "$5,059",
+        "$122,900",
+        "B+",
+        {
+            "attack": 96.29932407980039,
+            "health": 591.4801761973557
+        }
+    ],
+    [
+        13,
+        "263",
+        "Lewis & Clark College",
+        "OR",
+        "Private not-for-profit",
+        "$38,167",
+        "$6,265",
+        "$115,600",
+        "B+",
+        {
+            "attack": 96.02376479479345,
+            "health": 590.8394428085672
+        }
+    ],
+    [
+        14,
+        "264",
+        "Pitzer College",
+        "CA",
+        "Private not-for-profit",
+        "$39,594",
+        "$4,829",
+        "$121,400",
+        "B+",
+        {
+            "attack": 95.75286416429157,
+            "health": 590.2086066601752
+        }
+    ],
+    [
+        15,
+        "265",
+        "University of Missouri-Kansas City",
+        "MO",
+        "Public",
+        "$8,376",
+        "$6,521",
+        "$105,700",
+        "",
+        {
+            "attack": 95.4865434282493,
+            "health": 589.5875148721061
+        }
+    ],
+    [
+        16,
+        "266",
+        "New Mexico Institute of Mining and Technology",
+        "NM",
+        "Public",
+        "$10,293",
+        "$4,925",
+        "$144,300",
+        "",
+        {
+            "attack": 95.22472515815271,
+            "health": 588.9760169257851
+        }
+    ],
+    [
+        17,
+        "267",
+        "Wayne State University",
+        "MI",
+        "Public",
+        "$10,605",
+        "$6,437",
+        "$103,100",
+        "",
+        {
+            "attack": 94.96733323450803,
+            "health": 588.3739646276581
+        }
+    ],
+    [
+        18,
+        "268",
+        "Rutgers University, Newark",
+        "NJ",
+        "Public",
+        "$13,168",
+        "$6,475",
+        "$123,100",
+        "",
+        {
+            "attack": 94.71429282471135,
+            "health": 587.7812120732777
+        }
+    ],
+    [
+        19,
+        "269",
+        "St. Olaf College",
+        "MN",
+        "Private not-for-profit",
+        "$40,399",
+        "$6,527",
+        "$128,600",
+        "B+",
+        {
+            "attack": 94.46553036129208,
+            "health": 587.1976156119448
+        }
+    ],
+    [
+        20,
+        "270",
+        "Ohio Northern University",
+        "OH",
+        "Private not-for-profit",
+        "$24,235",
+        "$13,929",
+        "$124,100",
+        "B",
+        {
+            "attack": 94.22097352052444,
+            "health": 586.6230338118942
+        }
+    ],
+    [
+        21,
+        "271",
+        "Adelphi University",
+        "NY",
+        "Private not-for-profit",
+        "$28,826",
+        "$8,635",
+        "$108,000",
+        "C-",
+        {
+            "attack": 93.9805512014005,
+            "health": 586.0573274260206
+        }
+    ],
+    [
+        22,
+        "272",
+        "University of Texas at San Antonio",
+        "TX",
+        "Public",
+        "$8,934",
+        "$5,390",
+        "$105,800",
+        "",
+        {
+            "attack": 93.74419350495866,
+            "health": 585.5003593581317
+        }
+    ],
+    [
+        23,
+        "273",
+        "Howard University",
+        "DC",
+        "Private not-for-profit",
+        "$20,063",
+        "$7,415",
+        "$120,000",
+        "A",
+        {
+            "attack": 93.51183171396163,
+            "health": 584.9519946297246
+        }
+    ],
+    [
+        24,
+        "274",
+        "University of Alabama at Birmingham",
+        "AL",
+        "Public",
+        "$11,142",
+        "$6,382",
+        "$101,100",
+        "",
+        {
+            "attack": 93.28339827291805,
+            "health": 584.4121003472735
+        }
+    ],
+    [
+        25,
+        "275",
+        "North Dakota State University",
+        "ND",
+        "Public",
+        "$5,732",
+        "$9,555",
+        "$117,100",
+        "",
+        {
+            "attack": 93.05882676844173,
+            "health": 583.880545670024
+        }
+    ],
+    [
+        26,
+        "276",
+        "Azusa Pacific University",
+        "CA",
+        "Private not-for-profit",
+        "$27,474",
+        "$6,713",
+        "$105,700",
+        "D",
+        {
+            "attack": 92.8380519099431,
+            "health": 583.3572017782848
+        }
+    ],
+    [
+        27,
+        "277",
+        "Montana State University",
+        "MT",
+        "Public",
+        "$5,749",
+        "$7,375",
+        "$113,600",
+        "",
+        {
+            "attack": 92.62100951064693,
+            "health": 582.841941842208
+        }
+    ],
+    [
+        28,
+        "278",
+        "University of Massachusetts Boston",
+        "MA",
+        "Public",
+        "$11,104",
+        "$6,746",
+        "$107,900",
+        "",
+        {
+            "attack": 92.40763646893106,
+            "health": 582.3346409910537
+        }
+    ],
+    [
+        29,
+        "279",
+        "University of Redlands",
+        "CA",
+        "Private not-for-profit",
+        "$42,251",
+        "$9,108",
+        "$124,500",
+        "C-",
+        {
+            "attack": 92.19787074998067,
+            "health": 581.835176282927
+        }
+    ],
+    [
+        30,
+        "280",
+        "University of Texas, El Paso",
+        "TX",
+        "Public",
+        "$10,564",
+        "$4,735",
+        "$106,500",
+        "",
+        {
+            "attack": 91.9916513677526,
+            "health": 581.3434266749845
+        }
+    ],
+    [
+        31,
+        "281",
+        "University of Idaho",
+        "ID",
+        "Public",
+        "$11,105",
+        "$5,572",
+        "$118,800",
+        "",
+        {
+            "attack": 91.78891836724458,
+            "health": 580.8592729940996
+        }
+    ],
+    [
+        32,
+        "282",
+        "Saint Peter's University",
+        "NJ",
+        "Private not-for-profit",
+        "$35,256",
+        "$6,551",
+        "$114,400",
+        "D",
+        {
+            "attack": 91.5896128070644,
+            "health": 580.3825979079818
+        }
+    ],
+    [
+        33,
+        "283",
+        "Regis University",
+        "CO",
+        "Private not-for-profit",
+        "$26,291",
+        "$6,902",
+        "$112,700",
+        "D",
+        {
+            "attack": 91.3936767422935,
+            "health": 579.9132858967416
+        }
+    ],
+    [
+        34,
+        "284",
+        "Southwestern University",
+        "TX",
+        "Private not-for-profit",
+        "$30,609",
+        "$7,269",
+        "$111,600",
+        "A-",
+        {
+            "attack": 91.20105320764044,
+            "health": 579.4512232248951
+        }
+    ],
+    [
+        35,
+        "285",
+        "Mercer University",
+        "GA",
+        "Private not-for-profit",
+        "$33,740",
+        "$8,484",
+        "$98,400",
+        "C-",
+        {
+            "attack": 91.01168620087928,
+            "health": 578.9962979138002
+        }
+    ],
+    [
+        36,
+        "286",
+        "University of Nevada, Las Vegas",
+        "NV",
+        "Public",
+        "$6,346",
+        "$5,722",
+        "$107,300",
+        "",
+        {
+            "attack": 90.82552066656761,
+            "health": 578.5483997145199
+        }
+    ],
+    [
+        37,
+        "287",
+        "Whitman College",
+        "WA",
+        "Private not-for-profit",
+        "$32,047",
+        "$6,438",
+        "$135,400",
+        "B+",
+        {
+            "attack": 90.64250248004022,
+            "health": 578.1074200811031
+        }
+    ],
+    [
+        38,
+        "288",
+        "La Salle University",
+        "PA",
+        "Private not-for-profit",
+        "$29,025",
+        "$11,265",
+        "$121,200",
+        "D",
+        {
+            "attack": 90.46257843167317,
+            "health": 577.67325214428
+        }
+    ],
+    [
+        39,
+        "289",
+        "Yeshiva University",
+        "NY",
+        "Private not-for-profit",
+        "$30,955",
+        "$6,369",
+        "$145,600",
+        "C+",
+        {
+            "attack": 90.28569621141386,
+            "health": 577.245790685562
+        }
+    ],
+    [
+        40,
+        "290",
+        "Portland State University",
+        "OR",
+        "Public",
+        "$9,750",
+        "$5,868",
+        "$109,000",
+        "",
+        {
+            "attack": 90.11180439357288,
+            "health": 576.824932111743
+        }
+    ],
+    [
+        41,
+        "291",
+        "Wentworth Institute of Technology",
+        "MA",
+        "Private not-for-profit",
+        "$18,237",
+        "$10,226",
+        "$134,000",
+        "C-",
+        {
+            "attack": 89.94085242187265,
+            "health": 576.4105744297939
+        }
+    ],
+    [
+        42,
+        "292",
+        "Gettysburg College",
+        "PA",
+        "Private not-for-profit",
+        "$43,239",
+        "$8,110",
+        "$145,200",
+        "B-",
+        {
+            "attack": 89.77279059474907,
+            "health": 576.0026172221451
+        }
+    ],
+    [
+        43,
+        "293",
+        "Macalester College",
+        "MN",
+        "Private not-for-profit",
+        "$40,262",
+        "$6,714",
+        "$113,900",
+        "B+",
+        {
+            "attack": 89.60757005090154,
+            "health": 575.6009616223511
+        }
+    ],
+    [
+        44,
+        "294",
+        "College of Charleston",
+        "SC",
+        "Public",
+        "$9,499",
+        "$9,150",
+        "$102,700",
+        "",
+        {
+            "attack": 89.44514275508739,
+            "health": 575.2055102911299
+        }
+    ],
+    [
+        45,
+        "295",
+        "California State University-Bakersfield",
+        "CA",
+        "Public",
+        "$10,750",
+        "$5,006",
+        "$111,700",
+        "",
+        {
+            "attack": 89.2854614841563,
+            "health": 574.8161673927743
+        }
+    ],
+    [
+        46,
+        "296",
+        "University of the Pacific (CA)",
+        "CA",
+        "Private not-for-profit",
+        "$38,322",
+        "$6,817",
+        "$132,800",
+        "C+",
+        {
+            "attack": 89.12847981332096,
+            "health": 574.432838571926
+        }
+    ],
+    [
+        47,
+        "297",
+        "Northern Arizona University",
+        "AZ",
+        "Public",
+        "$11,865",
+        "$6,397",
+        "$106,700",
+        "",
+        {
+            "attack": 88.97415210265986,
+            "health": 574.055430930709
+        }
+    ],
+    [
+        48,
+        "298",
+        "Texas State University",
+        "TX",
+        "Public",
+        "$11,791",
+        "$5,703",
+        "$105,600",
+        "",
+        {
+            "attack": 88.82243348384812,
+            "health": 573.6838530062164
+        }
+    ],
+    [
+        49,
+        "299",
+        "Ramapo College of New Jersey",
+        "NJ",
+        "Public",
+        "$12,553",
+        "$8,357",
+        "$117,000",
+        "",
+        {
+            "attack": 88.67327984711275,
+            "health": 573.318014748345
+        }
+    ],
+    [
+        50,
+        "300",
+        "Xavier University",
+        "OH",
+        "Private not-for-profit",
+        "$27,897",
+        "$8,988",
+        "$112,900",
+        "C-",
+        {
+            "attack": 88.52664782840853,
+            "health": 572.9578274979717
+        }
+    ],
+    [
+        0,
+        "301",
+        "Rochester Institute of Technology",
+        "NY",
+        "Private not-for-profit",
+        "$29,122",
+        "$9,891",
+        "$126,100",
+        "B",
+        {
+            "attack": 88.38249479681048,
+            "health": 572.6032039654676
+        }
+    ],
+    [
+        1,
+        "",
+        "Rochester Institute of Technology is a private research university located in Henrietta, New York \u2014part of the Rochester, New York, metropolitan area. The school is home to the National Technical Institute for the Deaf, which is the first and largest technological college for deaf and hard of hearing students. The school serves more than 1,100 deaf and hard of hearing students who live and study with hearing students. RIT prides itself on its collaborative, diverse community working at the intersection of art, design and technology. The institution offers a series of multidisciplinary, \u201cfuture-proof,\u201d academic programs called \u201cNew Economy Majors,\u201d including Human-Centered Computing, Microelectronic Engineering, Motion Picture Science and Humanities, Computing, and Design. RIT alumni have won more than a dozen combined Pulitzer Prizes for work in visual journalism. Beyond its New York campus, RIT has campuses in China, Croatia, Dubai and Kosovo.\nView Profile\nAV. GRANT AID\n$29,122"
+    ],
+    [
+        2,
+        "302",
+        "Hofstra University",
+        "NY",
+        "Private not-for-profit",
+        "$30,958",
+        "$10,202",
+        "$135,400",
+        "C+",
+        {
+            "attack": 88.2407788421197,
+            "health": 572.254058209544
+        }
+    ],
+    [
+        3,
+        "303",
+        "Fashion Institute of Technology",
+        "NY",
+        "Public",
+        "$8,260",
+        "$8,716",
+        "$127,200",
+        "",
+        {
+            "attack": 88.10145876267855,
+            "health": 571.9103056164246
+        }
+    ],
+    [
+        4,
+        "304",
+        "University of Saint Thomas (MN)",
+        "MN",
+        "Private not-for-profit",
+        "$32,284",
+        "$10,539",
+        "$135,200",
+        "B-",
+        {
+            "attack": 87.96449405339202,
+            "health": 571.5718628793395
+        }
+    ],
+    [
+        5,
+        "305",
+        "University of Northern Iowa",
+        "IA",
+        "Public",
+        "$6,412",
+        "$6,606",
+        "$99,100",
+        "",
+        {
+            "attack": 87.82984489395143,
+            "health": 571.2386479783372
+        }
+    ],
+    [
+        6,
+        "306",
+        "University at Albany, SUNY",
+        "NY",
+        "Public",
+        "$11,485",
+        "$6,785",
+        "$125,100",
+        "",
+        {
+            "attack": 87.6974721372574,
+            "health": 570.9105801604067
+        }
+    ],
+    [
+        7,
+        "307",
+        "University of Tulsa",
+        "OK",
+        "Private not-for-profit",
+        "$36,877",
+        "$7,505",
+        "$126,000",
+        "B+",
+        {
+            "attack": 87.5673372980384,
+            "health": 570.5875799199071
+        }
+    ],
+    [
+        8,
+        "308",
+        "Susquehanna University",
+        "PA",
+        "Private not-for-profit",
+        "$40,914",
+        "$9,772",
+        "$130,600",
+        "C",
+        {
+            "attack": 87.4394025416617,
+            "health": 570.2695689793009
+        }
+    ],
+    [
+        9,
+        "309",
+        "California State University-Monterey Bay",
+        "CA",
+        "Public",
+        "$8,702",
+        "$5,210",
+        "$119,900",
+        "",
+        {
+            "attack": 87.31363067313376,
+            "health": 569.9564702701825
+        }
+    ],
+    [
+        10,
+        "310",
+        "Loyola University Maryland",
+        "MD",
+        "Private not-for-profit",
+        "$36,621",
+        "$9,532",
+        "$139,600",
+        "C+",
+        {
+            "attack": 87.18998512628613,
+            "health": 569.6482079146026
+        }
+    ],
+    [
+        11,
+        "311",
+        "Missouri University of Science and Technology",
+        "MO",
+        "Public",
+        "$13,779",
+        "$6,920",
+        "$141,500",
+        "",
+        {
+            "attack": 87.06842995314462,
+            "health": 569.3447072066778
+        }
+    ],
+    [
+        12,
+        "312",
+        "New School",
+        "NY",
+        "Private not-for-profit",
+        "$21,504",
+        "$10,379",
+        "$130,700",
+        "C-",
+        {
+            "attack": 86.94892981347785,
+            "health": 569.0458945944873
+        }
+    ],
+    [
+        13,
+        "313",
+        "East Carolina University",
+        "NC",
+        "Public",
+        "$9,020",
+        "$7,654",
+        "$100,500",
+        "",
+        {
+            "attack": 86.83144996452273,
+            "health": 568.7516976622474
+        }
+    ],
+    [
+        14,
+        "314",
+        "SUNY Maritime College",
+        "NY",
+        "Public",
+        "$8,012",
+        "$8,647",
+        "$165,400",
+        "",
+        {
+            "attack": 86.71595625088355,
+            "health": 568.462045112762
+        }
+    ],
+    [
+        15,
+        "315",
+        "University of Rhode Island",
+        "RI",
+        "Public",
+        "$13,257",
+        "$11,356",
+        "$120,800",
+        "",
+        {
+            "attack": 86.60241509460181,
+            "health": 568.1768667501441
+        }
+    ],
+    [
+        16,
+        "316",
+        "Wheaton College (MA)",
+        "MA",
+        "Private not-for-profit",
+        "$41,665",
+        "$7,647",
+        "$115,400",
+        "B-",
+        {
+            "attack": 86.49079348539397,
+            "health": 567.8960934628041
+        }
+    ],
+    [
+        17,
+        "317",
+        "Art Center College of Design",
+        "CA",
+        "Private not-for-profit",
+        "$16,665",
+        "$7,458",
+        "$128,900",
+        "C+",
+        {
+            "attack": 86.38105897105423,
+            "health": 567.6196572067008
+        }
+    ],
+    [
+        18,
+        "318",
+        "Providence College",
+        "RI",
+        "Private not-for-profit",
+        "$30,971",
+        "$9,247",
+        "$135,100",
+        "C",
+        {
+            "attack": 86.2731796480196,
+            "health": 567.347490988852
+        }
+    ],
+    [
+        19,
+        "319",
+        "Tennessee Technological University",
+        "TN",
+        "Public",
+        "$8,471",
+        "$6,766",
+        "$109,400",
+        "",
+        {
+            "attack": 86.16712415209443,
+            "health": 567.0795288510977
+        }
+    ],
+    [
+        20,
+        "320",
+        "Michigan Technological University",
+        "MI",
+        "Public",
+        "$16,114",
+        "$8,372",
+        "$135,600",
+        "",
+        {
+            "attack": 86.06286164933175,
+            "health": 566.815705854117
+        }
+    ],
+    [
+        21,
+        "321",
+        "University of West Florida",
+        "FL",
+        "Public",
+        "$11,515",
+        "$6,174",
+        "$96,700",
+        "",
+        {
+            "attack": 85.9603618270688,
+            "health": 566.5559580616892
+        }
+    ],
+    [
+        22,
+        "322",
+        "Centre College",
+        "KY",
+        "Private not-for-profit",
+        "$37,116",
+        "$7,650",
+        "$98,600",
+        "A-",
+        {
+            "attack": 85.85959488511412,
+            "health": 566.3002225251998
+        }
+    ],
+    [
+        23,
+        "323",
+        "California State University-San Marcos",
+        "CA",
+        "Public",
+        "$8,922",
+        "$5,606",
+        "$112,000",
+        "",
+        {
+            "attack": 85.76053152708361,
+            "health": 566.048437268385
+        }
+    ],
+    [
+        24,
+        "324",
+        "University of California-Merced",
+        "CA",
+        "Public",
+        "$25,868",
+        "$4,754",
+        "",
+        "",
+        {
+            "attack": 85.66314295188312,
+            "health": 565.800541272312
+        }
+    ],
+    [
+        25,
+        "325",
+        "University of Alabama in Huntsville",
+        "AL",
+        "Public",
+        "$8,983",
+        "$7,054",
+        "$127,000",
+        "",
+        {
+            "attack": 85.56740084533484,
+            "health": 565.5564744605913
+        }
+    ],
+    [
+        26,
+        "326",
+        "University of North Florida",
+        "FL",
+        "Public",
+        "$8,742",
+        "$5,825",
+        "$103,300",
+        "",
+        {
+            "attack": 85.47327737194561,
+            "health": 565.316177684818
+        }
+    ],
+    [
+        27,
+        "327",
+        "University of Mary Washington",
+        "VA",
+        "Public",
+        "$9,046",
+        "$8,468",
+        "$117,500",
+        "",
+        {
+            "attack": 85.38074516681405,
+            "health": 565.0795927102366
+        }
+    ],
+    [
+        28,
+        "328",
+        "Abilene Christian University",
+        "TX",
+        "Private not-for-profit",
+        "$26,280",
+        "$10,671",
+        "$110,800",
+        "A",
+        {
+            "attack": 85.28977732767467,
+            "health": 564.8466622016291
+        }
+    ],
+    [
+        29,
+        "329",
+        "Bard College",
+        "NY",
+        "Private not-for-profit",
+        "$53,584",
+        "$6,006",
+        "$107,100",
+        "A-",
+        {
+            "attack": 85.20034740707653,
+            "health": 564.6173297094192
+        }
+    ],
+    [
+        30,
+        "330",
+        "Colorado State University, Fort Collins",
+        "CO",
+        "Public",
+        "$10,727",
+        "$8,773",
+        "$116,300",
+        "",
+        {
+            "attack": 85.11242940469398,
+            "health": 564.3915396559923
+        }
+    ],
+    [
+        31,
+        "331",
+        "Butler University",
+        "IN",
+        "Private not-for-profit",
+        "$25,728",
+        "$11,152",
+        "$121,100",
+        "C-",
+        {
+            "attack": 85.02599775976758,
+            "health": 564.1692373222271
+        }
+    ],
+    [
+        32,
+        "332",
+        "Sarah Lawrence College",
+        "NY",
+        "Private not-for-profit",
+        "$33,957",
+        "$9,120",
+        "$119,400",
+        "B",
+        {
+            "attack": 84.94102734367256,
+            "health": 563.9503688342336
+        }
+    ],
+    [
+        33,
+        "333",
+        "Taylor University",
+        "IN",
+        "Private not-for-profit",
+        "$23,303",
+        "$7,530",
+        "$121,500",
+        "B",
+        {
+            "attack": 84.85749345261327,
+            "health": 563.7348811502981
+        }
+    ],
+    [
+        34,
+        "334",
+        "Ithaca College",
+        "NY",
+        "Private not-for-profit",
+        "$29,677",
+        "$5,364",
+        "$129,400",
+        "C",
+        {
+            "attack": 84.77537180044078,
+            "health": 563.522722048028
+        }
+    ],
+    [
+        35,
+        "335",
+        "Biola University",
+        "CA",
+        "Private not-for-profit",
+        "$26,521",
+        "$7,941",
+        "$116,800",
+        "C",
+        {
+            "attack": 84.69463851159216,
+            "health": 563.3138401116964
+        }
+    ],
+    [
+        36,
+        "336",
+        "SUNY, Farmingdale State College",
+        "NY",
+        "Public",
+        "$10,382",
+        "$5,276",
+        "$112,300",
+        "",
+        {
+            "attack": 84.61527011414901,
+            "health": 563.1081847197818
+        }
+    ],
+    [
+        37,
+        "337",
+        "California State University Maritime Academy",
+        "CA",
+        "Public",
+        "$9,529",
+        "$6,511",
+        "$156,200",
+        "",
+        {
+            "attack": 84.53724353301337,
+            "health": 562.9057060326998
+        }
+    ],
+    [
+        38,
+        "338",
+        "Charter Oak State College",
+        "CT",
+        "Public",
+        "$8,195",
+        "$9,500",
+        "$98,900",
+        "",
+        {
+            "attack": 84.46053608319899,
+            "health": 562.7063549807251
+        }
+    ],
+    [
+        39,
+        "339",
+        "Northern Illinois University",
+        "IL",
+        "Public",
+        "$12,552",
+        "$6,377",
+        "$115,100",
+        "",
+        {
+            "attack": 84.3851254632361,
+            "health": 562.5100832520995
+        }
+    ],
+    [
+        40,
+        "340",
+        "Soka University of America",
+        "CA",
+        "Private not-for-profit",
+        "$34,200",
+        "$7,481",
+        "",
+        "",
+        {
+            "attack": 84.31098974868749,
+            "health": 562.3168432813239
+        }
+    ],
+    [
+        41,
+        "341",
+        "California State University, Sacramento",
+        "CA",
+        "Public",
+        "$9,590",
+        "$4,958",
+        "$117,500",
+        "",
+        {
+            "attack": 84.2381073857745,
+            "health": 562.126588237631
+        }
+    ],
+    [
+        42,
+        "342",
+        "The Juilliard School",
+        "NY",
+        "Private not-for-profit",
+        "$36,421",
+        "$7,218",
+        "$115,600",
+        "A",
+        {
+            "attack": 84.16645718511042,
+            "health": 561.9392720136359
+        }
+    ],
+    [
+        43,
+        "343",
+        "University of Puerto Rico-Rio Piedras",
+        "PR",
+        "Public",
+        "$5,825",
+        "$3,532",
+        "$98,700",
+        "",
+        {
+            "attack": 84.09601831554012,
+            "health": 561.7548492141626
+        }
+    ],
+    [
+        44,
+        "344",
+        "New College of Florida",
+        "FL",
+        "Public",
+        "$14,102",
+        "$4,856",
+        "$109,000",
+        "",
+        {
+            "attack": 84.02677029808372,
+            "health": 561.5732751452422
+        }
+    ],
+    [
+        45,
+        "345",
+        "Pace University",
+        "NY",
+        "Private not-for-profit",
+        "$33,911",
+        "$9,879",
+        "$134,000",
+        "D",
+        {
+            "attack": 83.95869299998262,
+            "health": 561.3945058032821
+        }
+    ],
+    [
+        46,
+        "346",
+        "University of Alaska, Fairbanks",
+        "AK",
+        "Public",
+        "$8,704",
+        "$5,705",
+        "$115,700",
+        "",
+        {
+            "attack": 83.89176662884621,
+            "health": 561.2184978644013
+        }
+    ],
+    [
+        47,
+        "347",
+        "Denison University",
+        "OH",
+        "Private not-for-profit",
+        "$36,497",
+        "$7,089",
+        "$140,800",
+        "A-",
+        {
+            "attack": 83.82597172689762,
+            "health": 561.0452086739318
+        }
+    ],
+    [
+        48,
+        "348",
+        "University of Washington, Tacoma Campus",
+        "WA",
+        "Public",
+        "$12,961",
+        "$4,891",
+        "$107,900",
+        "",
+        {
+            "attack": 83.76128916531661,
+            "health": 560.8745962360807
+        }
+    ],
+    [
+        49,
+        "349",
+        "The Catholic University of America",
+        "DC",
+        "Private not-for-profit",
+        "$34,449",
+        "$10,152",
+        "$129,500",
+        "B",
+        {
+            "attack": 83.69770013867817,
+            "health": 560.7066192037533
+        }
+    ],
+    [
+        50,
+        "350",
+        "CUNY, Lehman College",
+        "NY",
+        "Public",
+        "$10,412",
+        "$5,384",
+        "$94,900",
+        "",
+        {
+            "attack": 83.63518615948519,
+            "health": 560.5412368685326
+        }
+    ],
+    [
+        0,
+        "351",
+        "Rockhurst University",
+        "MO",
+        "Private not-for-profit",
+        "$32,842",
+        "$6,403",
+        "$109,400",
+        "C-",
+        {
+            "attack": 83.5737290527935,
+            "health": 560.3784091508136
+        }
+    ],
+    [
+        1,
+        "",
+        "A small, Catholic school in Kansas City, MO, Rockhurst University offers students an intimate liberal arts education guided by Jesuit values. Rockhurst\u2019s 55-acre campus is a mile from the upscale Country Club Plaza and four miles south of downtown Kansas City. vAbout half of Rockhurst students are Catholic. Regardless of major, all undergraduates completed a core curriculum centered on the Jesuit ideal of a well-rounded education with requirements in the arts, scientific inquiry and global perspectives. Roughly 40% of Rockhurst students are in the Bachelor of Science in Nursing degree program. Rockhurst nursing graduates report a $70,000 median salary and a 100% job placement rate. More than half of Rockhurst alumni remain in the Kansas City metropolitan area.\nView Profile\nAV. GRANT AID\n$32,842"
+    ],
+    [
+        2,
+        "352",
+        "Jacksonville University",
+        "FL",
+        "Private not-for-profit",
+        "$31,988",
+        "$9,901",
+        "$107,100",
+        "D",
+        {
+            "attack": 83.51331095092775,
+            "health": 560.2180965900907
+        }
+    ],
+    [
+        3,
+        "353",
+        "Boise State University",
+        "ID",
+        "Public",
+        "$9,892",
+        "$7,335",
+        "$99,800",
+        "",
+        {
+            "attack": 83.45391428828671,
+            "health": 560.0602603353943
+        }
+    ],
+    [
+        4,
+        "354",
+        "Rutgers University, Camden",
+        "NJ",
+        "Public",
+        "$15,670",
+        "$6,495",
+        "$111,000",
+        "",
+        {
+            "attack": 83.39552179623638,
+            "health": 559.9048621358755
+        }
+    ],
+    [
+        5,
+        "355",
+        "Westmont College",
+        "CA",
+        "Private not-for-profit",
+        "$33,900",
+        "$7,897",
+        "$133,600",
+        "B-",
+        {
+            "attack": 83.33811649808933,
+            "health": 559.7518643315362
+        }
+    ],
+    [
+        6,
+        "356",
+        "Saint John's University",
+        "MN",
+        "Private not-for-profit",
+        "$37,533",
+        "$9,006",
+        "$131,700",
+        "B-",
+        {
+            "attack": 83.28168170416905,
+            "health": 559.6012298441025
+        }
+    ],
+    [
+        7,
+        "357",
+        "Embry-Riddle Aeronautical University, Prescott",
+        "AZ",
+        "Private not-for-profit",
+        "$20,536",
+        "$15,653",
+        "$146,800",
+        "",
+        {
+            "attack": 83.2262010069577,
+            "health": 559.4529221680386
+        }
+    ],
+    [
+        8,
+        "358",
+        "Spelman College",
+        "GA",
+        "Private not-for-profit",
+        "$10,629",
+        "$7,997",
+        "$98,400",
+        "B-",
+        {
+            "attack": 83.17165827632583,
+            "health": 559.3069053617005
+        }
+    ],
+    [
+        9,
+        "359",
+        "University of Puget Sound",
+        "WA",
+        "Private not-for-profit",
+        "$32,482",
+        "$7,519",
+        "$134,000",
+        "B-",
+        {
+            "attack": 83.1180376548429,
+            "health": 559.1631440386251
+        }
+    ],
+    [
+        10,
+        "360",
+        "California State University, Stanislaus",
+        "CA",
+        "Public",
+        "$9,696",
+        "$5,076",
+        "$117,500",
+        "",
+        {
+            "attack": 83.06532355316686,
+            "health": 559.0216033589546
+        }
+    ],
+    [
+        11,
+        "361",
+        "Muhlenberg College",
+        "PA",
+        "Private not-for-profit",
+        "$38,412",
+        "$8,149",
+        "$120,900",
+        "C+",
+        {
+            "attack": 83.01350064551191,
+            "health": 558.8822490209935
+        }
+    ],
+    [
+        12,
+        "362",
+        "St. Mary's College of Maryland",
+        "MD",
+        "Public",
+        "$10,265",
+        "$7,459",
+        "$118,200",
+        "",
+        {
+            "attack": 82.9625538651927,
+            "health": 558.7450472528958
+        }
+    ],
+    [
+        13,
+        "363",
+        "Iona University",
+        "NY",
+        "Private not-for-profit",
+        "$28,273",
+        "$9,536",
+        "$121,000",
+        "C",
+        {
+            "attack": 82.91246840024397,
+            "health": 558.6099648044799
+        }
+    ],
+    [
+        14,
+        "364",
+        "D'Youville University",
+        "NY",
+        "Private not-for-profit",
+        "$22,053",
+        "$10,292",
+        "$96,200",
+        "C",
+        {
+            "attack": 82.86322968911415,
+            "health": 558.4769689391712
+        }
+    ],
+    [
+        15,
+        "365",
+        "Georgia State University",
+        "GA",
+        "Public",
+        "$11,563",
+        "$5,857",
+        "$108,800",
+        "",
+        {
+            "attack": 82.8148234164319,
+            "health": 558.3460274260685
+        }
+    ],
+    [
+        16,
+        "366",
+        "Christopher Newport University",
+        "VA",
+        "Public",
+        "$8,022",
+        "$8,879",
+        "$103,800",
+        "",
+        {
+            "attack": 82.76723550884414,
+            "health": 558.2171085321327
+        }
+    ],
+    [
+        17,
+        "367",
+        "Morehouse College",
+        "GA",
+        "Private not-for-profit",
+        "$13,577",
+        "$8,374",
+        "$124,200",
+        "B",
+        {
+            "attack": 82.72045213092431,
+            "health": 558.0901810144967
+        }
+    ],
+    [
+        18,
+        "368",
+        "University of Michigan-Dearborn",
+        "MI",
+        "Public",
+        "$10,761",
+        "$5,720",
+        "$117,800",
+        "",
+        {
+            "attack": 82.67445968115015,
+            "health": 557.9652141128936
+        }
+    ],
+    [
+        19,
+        "369",
+        "California State University, East Bay",
+        "CA",
+        "Public",
+        "$8,659",
+        "$5,669",
+        "$121,000",
+        "",
+        {
+            "attack": 82.62924478794909,
+            "health": 557.8421775422026
+        }
+    ],
+    [
+        20,
+        "370",
+        "Drew University",
+        "NJ",
+        "Private not-for-profit",
+        "$31,901",
+        "$9,988",
+        "$117,200",
+        "D",
+        {
+            "attack": 82.58479430581079,
+            "health": 557.721041485109
+        }
+    ],
+    [
+        21,
+        "371",
+        "University of New Hampshire",
+        "NH",
+        "Public",
+        "$13,573",
+        "$10,862",
+        "$118,800",
+        "",
+        {
+            "attack": 82.54109531146526,
+            "health": 557.6017765848783
+        }
+    ],
+    [
+        22,
+        "372",
+        "Siena College",
+        "NY",
+        "Private not-for-profit",
+        "$29,952",
+        "$9,340",
+        "$122,600",
+        "C",
+        {
+            "attack": 82.4981351001256,
+            "health": 557.4843539382418
+        }
+    ],
+    [
+        23,
+        "373",
+        "Concordia College\u2014Moorhead",
+        "MN",
+        "Private not-for-profit",
+        "$17,756",
+        "$10,219",
+        "$97,700",
+        "C+",
+        {
+            "attack": 82.45590118179432,
+            "health": 557.3687450883921
+        }
+    ],
+    [
+        24,
+        "374",
+        "Central Connecticut State University",
+        "CT",
+        "Public",
+        "$6,212",
+        "$6,772",
+        "$109,800",
+        "",
+        {
+            "attack": 82.41438127763206,
+            "health": 557.2549220180864
+        }
+    ],
+    [
+        25,
+        "375",
+        "Milwaukee School of Engineering",
+        "WI",
+        "Private not-for-profit",
+        "$31,850",
+        "$7,464",
+        "$135,100",
+        "C",
+        {
+            "attack": 82.3735633163877,
+            "health": 557.1428571428571
+        }
+    ],
+    [
+        26,
+        "376",
+        "Missouri State University",
+        "MO",
+        "Public",
+        "$8,049",
+        "$7,209",
+        "$106,400",
+        "",
+        {
+            "attack": 82.33343543088888,
+            "health": 557.0325233043267
+        }
+    ],
+    [
+        27,
+        "377",
+        "University of Minnesota, Duluth",
+        "MN",
+        "Public",
+        "$7,345",
+        "$9,247",
+        "$117,300",
+        "",
+        {
+            "attack": 82.29398595459173,
+            "health": 556.9238937636256
+        }
+    ],
+    [
+        28,
+        "378",
+        "California State University, Channel Islands",
+        "CA",
+        "Public",
+        "$9,412",
+        "$5,440",
+        "$109,200",
+        "",
+        {
+            "attack": 82.2552034181891,
+            "health": 556.8169421949132
+        }
+    ],
+    [
+        29,
+        "379",
+        "Saint Joseph's University (PA)",
+        "PA",
+        "Private not-for-profit",
+        "$29,822",
+        "$9,723",
+        "$124,600",
+        "C",
+        {
+            "attack": 82.21707654627595,
+            "health": 556.7116426789964
+        }
+    ],
+    [
+        30,
+        "380",
+        "LIU Post",
+        "NY",
+        "Private not-for-profit",
+        "$27,862",
+        "$7,749",
+        "$119,100",
+        "C",
+        {
+            "attack": 82.17959425407129,
+            "health": 556.6079696970498
+        }
+    ],
+    [
+        31,
+        "381",
+        "South Dakota State University",
+        "SD",
+        "Public",
+        "$4,551",
+        "$7,998",
+        "$104,000",
+        "",
+        {
+            "attack": 82.14274564419541,
+            "health": 556.5058981244302
+        }
+    ],
+    [
+        32,
+        "382",
+        "SUNY, College at New Paltz",
+        "NY",
+        "Public",
+        "$7,749",
+        "$6,619",
+        "$99,600",
+        "",
+        {
+            "attack": 82.10652000350164,
+            "health": 556.4054032245883
+        }
+    ],
+    [
+        33,
+        "383",
+        "Presbyterian College",
+        "SC",
+        "Private not-for-profit",
+        "$34,379",
+        "$7,610",
+        "$100,200",
+        "C-",
+        {
+            "attack": 82.07090679996168,
+            "health": 556.3064606430737
+        }
+    ],
+    [
+        34,
+        "384",
+        "Texas Woman's University",
+        "TX",
+        "Public",
+        "$9,790",
+        "$5,750",
+        "$94,500",
+        "",
+        {
+            "attack": 82.03589567960358,
+            "health": 556.2090464016329
+        }
+    ],
+    [
+        35,
+        "385",
+        "Berklee College of Music",
+        "MA",
+        "Private not-for-profit",
+        "$19,300",
+        "$17,737",
+        "$109,600",
+        "C+",
+        {
+            "attack": 82.00147646350152,
+            "health": 556.1131368923981
+        }
+    ],
+    [
+        36,
+        "386",
+        "Montclair State University",
+        "NJ",
+        "Public",
+        "$11,771",
+        "$7,904",
+        "$118,400",
+        "",
+        {
+            "attack": 81.96763914481637,
+            "health": 556.018708872166
+        }
+    ],
+    [
+        37,
+        "387",
+        "Dominican University of California",
+        "CA",
+        "Private not-for-profit",
+        "$17,194",
+        "$4,151",
+        "$103,400",
+        "D",
+        {
+            "attack": 81.93437388588646,
+            "health": 555.9257394567651
+        }
+    ],
+    [
+        38,
+        "388",
+        "University of New Mexico",
+        "NM",
+        "Public",
+        "$9,280",
+        "$5,724",
+        "$111,400",
+        "",
+        {
+            "attack": 81.90167101536733,
+            "health": 555.8342061155096
+        }
+    ],
+    [
+        39,
+        "389",
+        "Point Loma Nazarene University",
+        "CA",
+        "Private not-for-profit",
+        "$19,422",
+        "$7,511",
+        "$116,100",
+        "C+",
+        {
+            "attack": 81.86952102542004,
+            "health": 555.7440866657394
+        }
+    ],
+    [
+        40,
+        "390",
+        "Bennington College",
+        "VT",
+        "Private not-for-profit",
+        "$49,183",
+        "$6,846",
+        "$109,700",
+        "D",
+        {
+            "attack": 81.83791456894689,
+            "health": 555.6553592674437
+        }
+    ],
+    [
+        41,
+        "391",
+        "St. Catherine University",
+        "MN",
+        "Private not-for-profit",
+        "$37,012",
+        "$6,857",
+        "$99,900",
+        "C+",
+        {
+            "attack": 81.80684245687381,
+            "health": 555.5680024179693
+        }
+    ],
+    [
+        42,
+        "392",
+        "Ursinus College",
+        "PA",
+        "Private not-for-profit",
+        "$40,075",
+        "$10,636",
+        "$131,400",
+        "C-",
+        {
+            "attack": 81.77629565547895,
+            "health": 555.4819949468083
+        }
+    ],
+    [
+        43,
+        "393",
+        "Oregon Institute of Technology",
+        "OR",
+        "Public",
+        "$8,302",
+        "$6,402",
+        "$121,300",
+        "",
+        {
+            "attack": 81.74626528376609,
+            "health": 555.3973160104682
+        }
+    ],
+    [
+        44,
+        "394",
+        "Illinois Wesleyan University",
+        "IL",
+        "Private not-for-profit",
+        "$36,614",
+        "$8,859",
+        "$119,500",
+        "B",
+        {
+            "attack": 81.71674261088278,
+            "health": 555.3139450874207
+        }
+    ],
+    [
+        45,
+        "395",
+        "California Lutheran University",
+        "CA",
+        "Private not-for-profit",
+        "$30,597",
+        "$7,577",
+        "$122,000",
+        "C",
+        {
+            "attack": 81.68771905358189,
+            "health": 555.2318619731277
+        }
+    ],
+    [
+        46,
+        "396",
+        "Manhattanville College",
+        "NY",
+        "Private not-for-profit",
+        "$27,843",
+        "$8,273",
+        "$115,100",
+        "D",
+        {
+            "attack": 81.65918617372621,
+            "health": 555.1510467751458
+        }
+    ],
+    [
+        47,
+        "397",
+        "Florida Agricultural and Mechanical University",
+        "FL",
+        "Public",
+        "$12,191",
+        "$5,747",
+        "$96,900",
+        "",
+        {
+            "attack": 81.6311356758352,
+            "health": 555.0714799083046
+        }
+    ],
+    [
+        48,
+        "398",
+        "University of Wisconsin-Platteville",
+        "WI",
+        "Public",
+        "$4,866",
+        "$6,522",
+        "$117,000",
+        "",
+        {
+            "attack": 81.60355940467316,
+            "health": 554.9931420899607
+        }
+    ],
+    [
+        49,
+        "399",
+        "University of Scranton",
+        "PA",
+        "Private not-for-profit",
+        "$30,218",
+        "$10,565",
+        "$117,300",
+        "C",
+        {
+            "attack": 81.5764493428783,
+            "health": 554.9160143353248
+        }
+    ],
+    [
+        50,
+        "400",
+        "Loyola University New Orleans",
+        "LA",
+        "Private not-for-profit",
+        "$35,604",
+        "$6,516",
+        "$106,000",
+        "C",
+        {
+            "attack": 81.54979760863175,
+            "health": 554.8400779528606
+        }
+    ],
+    [
+        0,
+        "401",
+        "SUNY Polytechnic Institute",
+        "NY",
+        "Public",
+        "$9,497",
+        "$6,522",
+        "$108,900",
+        "",
+        {
+            "attack": 81.52359645336611,
+            "health": 554.765314539755
+        }
+    ],
+    [
+        1,
+        "",
+        "The State University of New York Polytechnic Institute (known as \u201cSUNY Poly\u201d) is a small, public university campuses outside of Utica and Albany, NY. SUNY Poly\u2019s 400-acre campus outside of Utica houses four main residence halls and the schools of business, arts and sciences, engineering and health sciences. The school's second campus in Albany dedicated to nanoscale science and nanoscale engineering. Students at SUNY Poly can get a break from studying with Division 3 athletics, dozens of official student clubs and direct access to the foothills of the Adirondack Mountains. The annual Summer Undergraduate Research Program gives students the opportunity to pursue funded research opportunities with faculty members. SUNY Poly offers merit-based scholarships, as well as the Cree | Wolfspeed scholarship for students from disadvantaged backgrounds looking to pursue STEM education.\nView Profile\nAV. GRANT AID\n$9,497"
+    ],
+    [
+        2,
+        "402",
+        "CUNY, John Jay College of Criminal Justice",
+        "NY",
+        "Public",
+        "$9,043",
+        "$11,622",
+        "$99,900",
+        "",
+        {
+            "attack": 81.49783825951259,
+            "health": 554.6917059774582
+        }
+    ],
+    [
+        3,
+        "403",
+        "Linfield University",
+        "OR",
+        "Private not-for-profit",
+        "$29,744",
+        "$9,184",
+        "$115,100",
+        "C",
+        {
+            "attack": 81.47251553828646,
+            "health": 554.6192344272933
+        }
+    ],
+    [
+        4,
+        "404",
+        "Middle Tennessee State University",
+        "TN",
+        "Public",
+        "$9,421",
+        "$5,944",
+        "$95,700",
+        "",
+        {
+            "attack": 81.44762092750963,
+            "health": 554.5478823261325
+        }
+    ],
+    [
+        5,
+        "405",
+        "Fairfield University",
+        "CT",
+        "Private not-for-profit",
+        "$25,279",
+        "$9,262",
+        "$144,800",
+        "C",
+        {
+            "attack": 81.4231471894704,
+            "health": 554.4776323821407
+        }
+    ],
+    [
+        6,
+        "406",
+        "Hampden-Sydney College",
+        "VA",
+        "Private not-for-profit",
+        "$36,954",
+        "$8,643",
+        "$138,500",
+        "B-",
+        {
+            "attack": 81.39908720881905,
+            "health": 554.4084675705857
+        }
+    ],
+    [
+        7,
+        "407",
+        "The University of Tennessee-Chattanooga",
+        "TN",
+        "Public",
+        "$9,309",
+        "$6,850",
+        "$100,800",
+        "",
+        {
+            "attack": 81.37543399049926,
+            "health": 554.3403711297117
+        }
+    ],
+    [
+        8,
+        "408",
+        "Central Michigan University",
+        "MI",
+        "Public",
+        "$11,314",
+        "$7,099",
+        "$97,200",
+        "",
+        {
+            "attack": 81.35218065771438,
+            "health": 554.2733265566774
+        }
+    ],
+    [
+        9,
+        "409",
+        "William Paterson University of New Jersey",
+        "NJ",
+        "Public",
+        "$10,919",
+        "$6,173",
+        "$108,600",
+        "",
+        {
+            "attack": 81.3293204499281,
+            "health": 554.2073176035565
+        }
+    ],
+    [
+        10,
+        "410",
+        "South Dakota School of Mines and Technology",
+        "SD",
+        "Public",
+        "$5,431",
+        "$7,854",
+        "$131,500",
+        "",
+        {
+            "attack": 81.30684672089899,
+            "health": 554.1423282734
+        }
+    ],
+    [
+        11,
+        "411",
+        "University of Wisconsin-Oshkosh",
+        "WI",
+        "Public",
+        "$4,450",
+        "$6,250",
+        "$99,800",
+        "",
+        {
+            "attack": 81.28475293674809,
+            "health": 554.07834281636
+        }
+    ],
+    [
+        12,
+        "412",
+        "Niagara University",
+        "NY",
+        "Private not-for-profit",
+        "$29,898",
+        "$8,860",
+        "$98,900",
+        "D",
+        {
+            "attack": 81.26303267405943,
+            "health": 554.0153457258718
+        }
+    ],
+    [
+        13,
+        "413",
+        "Maine Maritime Academy",
+        "ME",
+        "Public",
+        "$9,358",
+        "$12,526",
+        "$143,100",
+        "",
+        {
+            "attack": 81.24167961801243,
+            "health": 553.9533217348971
+        }
+    ],
+    [
+        14,
+        "414",
+        "Emerson College",
+        "MA",
+        "Private not-for-profit",
+        "$24,360",
+        "$12,551",
+        "$117,100",
+        "C",
+        {
+            "attack": 81.220687560546,
+            "health": 553.8922558122232
+        }
+    ],
+    [
+        15,
+        "415",
+        "Seattle Pacific University",
+        "WA",
+        "Private not-for-profit",
+        "$25,359",
+        "$6,894",
+        "$126,100",
+        "C",
+        {
+            "attack": 81.20005039855363,
+            "health": 553.8321331588204
+        }
+    ],
+    [
+        16,
+        "416",
+        "Maryland Institute College of Art",
+        "MD",
+        "Private not-for-profit",
+        "$25,767",
+        "$9,965",
+        "$99,300",
+        "C-",
+        {
+            "attack": 81.17976213210905,
+            "health": 553.7729392042563
+        }
+    ],
+    [
+        17,
+        "417",
+        "College of Wooster",
+        "OH",
+        "Private not-for-profit",
+        "$42,315",
+        "$6,703",
+        "$120,700",
+        "B-",
+        {
+            "attack": 81.15981686272175,
+            "health": 553.7146596031636
+        }
+    ],
+    [
+        18,
+        "418",
+        "New Mexico State University",
+        "NM",
+        "Public",
+        "$13,168",
+        "$4,431",
+        "$110,700",
+        "",
+        {
+            "attack": 81.14020879162226,
+            "health": 553.6572802317644
+        }
+    ],
+    [
+        19,
+        "419",
+        "University of Puerto Rico, Mayaguez",
+        "PR",
+        "Public",
+        "$8,087",
+        "$3,472",
+        "$129,700",
+        "",
+        {
+            "attack": 81.12093221807602,
+            "health": 553.6007871844471
+        }
+    ],
+    [
+        20,
+        "420",
+        "Stetson University",
+        "FL",
+        "Private not-for-profit",
+        "$42,150",
+        "$8,121",
+        "$109,500",
+        "C",
+        {
+            "attack": 81.10198153772622,
+            "health": 553.5451667703963
+        }
+    ],
+    [
+        21,
+        "421",
+        "Sam Houston State University",
+        "TX",
+        "Public",
+        "$10,499",
+        "$5,658",
+        "$107,000",
+        "",
+        {
+            "attack": 81.08335124096422,
+            "health": 553.4904055102752
+        }
+    ],
+    [
+        22,
+        "422",
+        "Stonehill College",
+        "MA",
+        "Private not-for-profit",
+        "$34,710",
+        "$8,547",
+        "$126,600",
+        "B-",
+        {
+            "attack": 81.06503591132785,
+            "health": 553.4364901329584
+        }
+    ],
+    [
+        23,
+        "423",
+        "Oakland University",
+        "MI",
+        "Public",
+        "$9,755",
+        "$5,672",
+        "$110,900",
+        "",
+        {
+            "attack": 81.04703022392663,
+            "health": 553.3834075723166
+        }
+    ],
+    [
+        24,
+        "424",
+        "Kean University",
+        "NJ",
+        "Public",
+        "$13,123",
+        "$6,569",
+        "$101,400",
+        "",
+        {
+            "attack": 81.02932894389357,
+            "health": 553.3311449640493
+        }
+    ],
+    [
+        25,
+        "425",
+        "California State University, San Bernardino",
+        "CA",
+        "Public",
+        "$9,871",
+        "$4,827",
+        "$101,200",
+        "",
+        {
+            "attack": 81.01192692486337,
+            "health": 553.2796896425674
+        }
+    ],
+    [
+        26,
+        "426",
+        "Rowan University",
+        "NJ",
+        "Public",
+        "$11,246",
+        "$9,044",
+        "$107,400",
+        "",
+        {
+            "attack": 80.994819107476,
+            "health": 553.2290291379239
+        }
+    ],
+    [
+        27,
+        "427",
+        "Saint Cloud State University",
+        "MN",
+        "Public",
+        "$6,042",
+        "$8,170",
+        "$109,000",
+        "",
+        {
+            "attack": 80.97800051790597,
+            "health": 553.179151172792
+        }
+    ],
+    [
+        28,
+        "428",
+        "University of Memphis",
+        "TN",
+        "Public",
+        "$9,625",
+        "$5,886",
+        "$97,300",
+        "",
+        {
+            "attack": 80.96146626641608,
+            "health": 553.1300436594893
+        }
+    ],
+    [
+        29,
+        "428",
+        "University of Dallas",
+        "TX",
+        "Private not-for-profit",
+        "$36,231",
+        "$7,796",
+        "$124,300",
+        "C",
+        {
+            "attack": 80.96146626641608,
+            "health": 553.1300436594893
+        }
+    ],
+    [
+        30,
+        "430",
+        "Washington & Jefferson College",
+        "PA",
+        "Private not-for-profit",
+        "$38,963",
+        "$7,761",
+        "$117,500",
+        "C-",
+        {
+            "attack": 80.92923163066443,
+            "health": 553.0340925683339
+        }
+    ],
+    [
+        31,
+        "431",
+        "New York Institute of Technology",
+        "NY",
+        "Private not-for-profit",
+        "$30,398",
+        "$6,530",
+        "$119,200",
+        "C",
+        {
+            "attack": 80.91352187469553,
+            "health": 552.9872257372009
+        }
+    ],
+    [
+        32,
+        "432",
+        "Dordt University",
+        "IA",
+        "Private not-for-profit",
+        "$21,920",
+        "$9,946",
+        "$103,600",
+        "B-",
+        {
+            "attack": 80.89807771066782,
+            "health": 552.941082845701
+        }
+    ],
+    [
+        33,
+        "433",
+        "Emmanuel College",
+        "MA",
+        "Private not-for-profit",
+        "$29,956",
+        "$9,663",
+        "$107,900",
+        "D",
+        {
+            "attack": 80.88289464843649,
+            "health": 552.8956527113287
+        }
+    ],
+    [
+        34,
+        "434",
+        "North Carolina A&T State University",
+        "NC",
+        "Public",
+        "$10,082",
+        "$6,617",
+        "$111,700",
+        "",
+        {
+            "attack": 80.86796827376791,
+            "health": 552.8509243243118
+        }
+    ],
+    [
+        35,
+        "435",
+        "University of Florida, Online",
+        "FL",
+        "Public",
+        "$6,997",
+        "$5,756",
+        "",
+        "",
+        {
+            "attack": 80.8532942470563,
+            "health": 552.8068868449433
+        }
+    ],
+    [
+        36,
+        "436",
+        "SUNY at Purchase College",
+        "NY",
+        "Public",
+        "$10,312",
+        "$6,613",
+        "$110,800",
+        "",
+        {
+            "attack": 80.83886830206201,
+            "health": 552.7635296009539
+        }
+    ],
+    [
+        37,
+        "437",
+        "St. Edward's University",
+        "TX",
+        "Private not-for-profit",
+        "$38,787",
+        "$8,160",
+        "$115,500",
+        "D",
+        {
+            "attack": 80.8246862446712,
+            "health": 552.7208420849267
+        }
+    ],
+    [
+        38,
+        "438",
+        "Massachusetts Maritime Academy",
+        "MA",
+        "Public",
+        "$11,804",
+        "$10,859",
+        "$132,600",
+        "",
+        {
+            "attack": 80.81074395167646,
+            "health": 552.6788139517496
+        }
+    ],
+    [
+        39,
+        "439",
+        "SUNY, College of Environmental Science and Forestry",
+        "NY",
+        "Public",
+        "$8,713",
+        "$7,196",
+        "$104,800",
+        "",
+        {
+            "attack": 80.79703736957809,
+            "health": 552.6374350161088
+        }
+    ],
+    [
+        40,
+        "440",
+        "Willamette University",
+        "OR",
+        "Private not-for-profit",
+        "$27,700",
+        "$7,750",
+        "$127,300",
+        "C+",
+        {
+            "attack": 80.78356251340557,
+            "health": 552.5966952500206
+        }
+    ],
+    [
+        41,
+        "441",
+        "University of Missouri, Saint Louis",
+        "MO",
+        "Public",
+        "$12,205",
+        "$6,118",
+        "$101,900",
+        "",
+        {
+            "attack": 80.77031546555897,
+            "health": 552.5565847804006
+        }
+    ],
+    [
+        42,
+        "442",
+        "University of St. Thomas (TX)",
+        "TX",
+        "Private not-for-profit",
+        "$23,181",
+        "$6,194",
+        "$107,300",
+        "C",
+        {
+            "attack": 80.75729237467004,
+            "health": 552.5170938866715
+        }
+    ],
+    [
+        43,
+        "443",
+        "Marist College",
+        "NY",
+        "Private not-for-profit",
+        "$22,904",
+        "$8,839",
+        "$125,100",
+        "C+",
+        {
+            "attack": 80.74448945448246,
+            "health": 552.4782129984075
+        }
+    ],
+    [
+        44,
+        "444",
+        "University of Wisconsin, La Crosse",
+        "WI",
+        "Public",
+        "$3,395",
+        "$6,861",
+        "$105,600",
+        "",
+        {
+            "attack": 80.731902982751,
+            "health": 552.4399326930139
+        }
+    ],
+    [
+        45,
+        "445",
+        "Goucher College",
+        "MD",
+        "Private not-for-profit",
+        "$35,187",
+        "$8,035",
+        "$112,900",
+        "C+",
+        {
+            "attack": 80.71952930015938,
+            "health": 552.4022436934453
+        }
+    ],
+    [
+        46,
+        "446",
+        "University of Wisconsin-River Falls",
+        "WI",
+        "Public",
+        "$4,489",
+        "$7,028",
+        "$94,900",
+        "",
+        {
+            "attack": 80.7073648092564,
+            "health": 552.3651368659556
+        }
+    ],
+    [
+        47,
+        "447",
+        "Augustana College",
+        "IL",
+        "Private not-for-profit",
+        "$34,946",
+        "$8,033",
+        "$121,000",
+        "C",
+        {
+            "attack": 80.69540597340999,
+            "health": 552.3286032178858
+        }
+    ],
+    [
+        48,
+        "448",
+        "Fairleigh Dickinson University-Florham Campus",
+        "NJ",
+        "Private not-for-profit",
+        "$28,436",
+        "$8,747",
+        "$118,500",
+        "",
+        {
+            "attack": 80.68364931577902,
+            "health": 552.2926338954836
+        }
+    ],
+    [
+        49,
+        "449",
+        "University of Maryland Global Campus",
+        "MD",
+        "Public",
+        "$4,213",
+        "$6,102",
+        "$115,100",
+        "",
+        {
+            "attack": 80.67209141830247,
+            "health": 552.2572201817588
+        }
+    ],
+    [
+        50,
+        "450",
+        "Duquesne University",
+        "PA",
+        "Private not-for-profit",
+        "$26,800",
+        "$13,104",
+        "$116,100",
+        "C+",
+        {
+            "attack": 80.66072892070564,
+            "health": 552.2223534943702
+        }
+    ],
+    [
+        0,
+        "451",
+        "Saint Michael's College",
+        "VT",
+        "Private not-for-profit",
+        "$37,162",
+        "$12,115",
+        "$117,200",
+        "C",
+        {
+            "attack": 80.64955851952325,
+            "health": 552.1880253835454
+        }
+    ],
+    [
+        1,
+        "",
+        "The only Edmundite college in the world, Saint Michael\u2019s College in Colchester, VT, is a private liberal arts college that emphasizes experiential learning. Students can choose from over 40 majors, as well as dual degree programs with other colleges, like Clarkson University and the University of Vermont. Popular programs include business administration, psychology and biology. In line with its Catholic roots, approximately 70% of students volunteer during their education. Additionally, more than a third of students study abroad. About 90% of students receive financial aid and all students are considered for merit awards, including the \u201cPurple & Gold\u201d Scholarships, which range from $17,000 to $30,000 annually. Nomination is required for the Book Award and the Presidential Scholarship, the latter of which is for Vermont students. Saint Michael\u2019s has a 95% placement rate for full-time employment or graduate school. About 5% of alumni partake in full-time service programs.\nView Profile\nAV. GRANT AID\n$37,162"
+    ],
+    [
+        2,
+        "452",
+        "Rollins College",
+        "FL",
+        "Private not-for-profit",
+        "$35,837",
+        "$7,794",
+        "$103,500",
+        "B-",
+        {
+            "attack": 80.63857696713902,
+            "health": 552.1542275300338
+        }
+    ],
+    [
+        3,
+        "453",
+        "Agnes Scott College",
+        "GA",
+        "Private not-for-profit",
+        "$34,267",
+        "$7,909",
+        "$99,400",
+        "B+",
+        {
+            "attack": 80.6277810708414,
+            "health": 552.1209517430899
+        }
+    ],
+    [
+        4,
+        "454",
+        "Allegheny College",
+        "PA",
+        "Private not-for-profit",
+        "$42,599",
+        "$9,085",
+        "$119,000",
+        "C+",
+        {
+            "attack": 80.61716769189545,
+            "health": 552.0881899584884
+        }
+    ],
+    [
+        5,
+        "455",
+        "Northwood University",
+        "MI",
+        "Private not-for-profit",
+        "$20,925",
+        "$7,652",
+        "$102,700",
+        "C+",
+        {
+            "attack": 80.60673374463018,
+            "health": 552.0559342365704
+        }
+    ],
+    [
+        6,
+        "456",
+        "Berea College",
+        "KY",
+        "Private not-for-profit",
+        "$55,298",
+        "$2,559",
+        "$81,600",
+        "A",
+        {
+            "attack": 80.59647619554156,
+            "health": 552.0241767603181
+        }
+    ],
+    [
+        7,
+        "457",
+        "Louisiana Tech University",
+        "LA",
+        "Public",
+        "$12,577",
+        "$5,947",
+        "$112,800",
+        "",
+        {
+            "attack": 80.5863920624105,
+            "health": 551.9929098334619
+        }
+    ],
+    [
+        8,
+        "458",
+        "Beloit College",
+        "WI",
+        "Private not-for-profit",
+        "$46,725",
+        "$6,892",
+        "$105,000",
+        "B-",
+        {
+            "attack": 80.57647841343582,
+            "health": 551.962125878614
+        }
+    ],
+    [
+        9,
+        "459",
+        "Menlo College",
+        "CA",
+        "Private not-for-profit",
+        "$34,632",
+        "$6,460",
+        "$135,000",
+        "B+",
+        {
+            "attack": 80.56673236638193,
+            "health": 551.9318174354325
+        }
+    ],
+    [
+        10,
+        "460",
+        "Washington College",
+        "MD",
+        "Private not-for-profit",
+        "$35,683",
+        "$7,659",
+        "$103,400",
+        "B",
+        {
+            "attack": 80.5571510877408,
+            "health": 551.9019771588138
+        }
+    ],
+    [
+        11,
+        "461",
+        "Weber State University",
+        "UT",
+        "Public",
+        "$5,831",
+        "$5,693",
+        "$108,100",
+        "",
+        {
+            "attack": 80.54773179190823,
+            "health": 551.8725978171117
+        }
+    ],
+    [
+        12,
+        "462",
+        "Austin College",
+        "TX",
+        "Private not-for-profit",
+        "$33,033",
+        "$8,486",
+        "$99,400",
+        "C+",
+        {
+            "attack": 80.5384717403739,
+            "health": 551.8436722903857
+        }
+    ],
+    [
+        13,
+        "463",
+        "Georgia Southern University",
+        "GA",
+        "Public",
+        "$8,806",
+        "$6,469",
+        "$103,400",
+        "",
+        {
+            "attack": 80.52936824092524,
+            "health": 551.815193568675
+        }
+    ],
+    [
+        14,
+        "464",
+        "Pittsburg State University",
+        "KS",
+        "Public",
+        "$3,070",
+        "$3,197",
+        "$101,000",
+        "",
+        {
+            "attack": 80.52041864686474,
+            "health": 551.7871547502999
+        }
+    ],
+    [
+        15,
+        "465",
+        "Simmons University",
+        "MA",
+        "Private not-for-profit",
+        "$36,606",
+        "$8,393",
+        "$107,600",
+        "D",
+        {
+            "attack": 80.5116203562404,
+            "health": 551.7595490401891
+        }
+    ],
+    [
+        16,
+        "466",
+        "Alma College",
+        "MI",
+        "Private not-for-profit",
+        "$34,736",
+        "$9,882",
+        "$114,700",
+        "C",
+        {
+            "attack": 80.50297081108931,
+            "health": 551.732369748233
+        }
+    ],
+    [
+        17,
+        "467",
+        "Concordia University-Wisconsin",
+        "WI",
+        "Private not-for-profit",
+        "$23,477",
+        "$8,213",
+        "$95,400",
+        "C+",
+        {
+            "attack": 80.4944674966939,
+            "health": 551.7056102876622
+        }
+    ],
+    [
+        18,
+        "468",
+        "Hampton University",
+        "VA",
+        "Private not-for-profit",
+        "$13,710",
+        "$12,966",
+        "$108,400",
+        "B+",
+        {
+            "attack": 80.48610794085091,
+            "health": 551.6792641734518
+        }
+    ],
+    [
+        19,
+        "469",
+        "College of Saint Benedict",
+        "MN",
+        "Private not-for-profit",
+        "$37,252",
+        "$10,148",
+        "$106,000",
+        "C",
+        {
+            "attack": 80.47788971315255,
+            "health": 551.6533250207489
+        }
+    ],
+    [
+        20,
+        "470",
+        "University of South Dakota",
+        "SD",
+        "Public",
+        "$6,308",
+        "$7,340",
+        "$105,200",
+        "",
+        {
+            "attack": 80.46981042427997,
+            "health": 551.627786543326
+        }
+    ],
+    [
+        21,
+        "471",
+        "Grove City College",
+        "PA",
+        "Private not-for-profit",
+        "$8,020",
+        "$14,541",
+        "$121,200",
+        "B",
+        {
+            "attack": 80.46186772530857,
+            "health": 551.6026425520573
+        }
+    ],
+    [
+        22,
+        "472",
+        "Valparaiso University",
+        "IN",
+        "Private not-for-profit",
+        "$34,706",
+        "$8,025",
+        "$112,400",
+        "C",
+        {
+            "attack": 80.45405930702503,
+            "health": 551.5778869534188
+        }
+    ],
+    [
+        23,
+        "473",
+        "Lawrence University",
+        "WI",
+        "Private not-for-profit",
+        "$40,089",
+        "$7,322",
+        "$126,900",
+        "B-",
+        {
+            "attack": 80.44638289925611,
+            "health": 551.5535137480115
+        }
+    ],
+    [
+        24,
+        "474",
+        "Woodbury University",
+        "CA",
+        "Private not-for-profit",
+        "$23,816",
+        "$6,252",
+        "$112,200",
+        "D",
+        {
+            "attack": 80.43883627020841,
+            "health": 551.5295170291076
+        }
+    ],
+    [
+        25,
+        "475",
+        "Gordon College",
+        "MA",
+        "Private not-for-profit",
+        "$15,181",
+        "$5,652",
+        "$113,200",
+        "C",
+        {
+            "attack": 80.43141722581971,
+            "health": 551.505890981219
+        }
+    ],
+    [
+        26,
+        "476",
+        "Loras College",
+        "IA",
+        "Private not-for-profit",
+        "$25,538",
+        "$8,092",
+        "$114,900",
+        "C",
+        {
+            "attack": 80.42412360912098,
+            "health": 551.4826298786877
+        }
+    ],
+    [
+        27,
+        "477",
+        "Eastern Illinois University",
+        "IL",
+        "Public",
+        "$11,773",
+        "$6,041",
+        "$101,200",
+        "",
+        {
+            "attack": 80.41695329960926,
+            "health": 551.4597280842987
+        }
+    ],
+    [
+        28,
+        "478",
+        "Wagner College",
+        "NY",
+        "Private not-for-profit",
+        "$34,485",
+        "$9,443",
+        "$129,100",
+        "C",
+        {
+            "attack": 80.40990421263123,
+            "health": 551.4371800479134
+        }
+    ],
+    [
+        29,
+        "479",
+        "University of Management and Technology",
+        "VA",
+        "Private for-profit",
+        "$4,050",
+        "",
+        "",
+        "",
+        {
+            "attack": 80.40297429877708,
+            "health": 551.414980305125
+        }
+    ],
+    [
+        30,
+        "480",
+        "Central College",
+        "IA",
+        "Private not-for-profit",
+        "$10,999",
+        "$8,126",
+        "$107,200",
+        "C-",
+        {
+            "attack": 80.39616154328468,
+            "health": 551.3931234759337
+        }
+    ],
+    [
+        31,
+        "481",
+        "Grand Valley State University",
+        "MI",
+        "Public",
+        "$8,811",
+        "$6,572",
+        "$98,500",
+        "",
+        {
+            "attack": 80.38946396545381,
+            "health": 551.3716042634433
+        }
+    ],
+    [
+        32,
+        "482",
+        "University of North Carolina, Wilmington",
+        "NC",
+        "Public",
+        "$6,217",
+        "$8,040",
+        "$99,300",
+        "",
+        {
+            "attack": 80.38287961807039,
+            "health": 551.350417452577
+        }
+    ],
+    [
+        33,
+        "483",
+        "Wichita State University",
+        "KS",
+        "Public",
+        "$7,110",
+        "$8,200",
+        "$100,500",
+        "",
+        {
+            "attack": 80.37640658684022,
+            "health": 551.3295579088143
+        }
+    ],
+    [
+        34,
+        "484",
+        "Cleveland State University",
+        "OH",
+        "Public",
+        "$9,436",
+        "$5,999",
+        "$101,000",
+        "",
+        {
+            "attack": 80.37004298983253,
+            "health": 551.3090205769464
+        }
+    ],
+    [
+        35,
+        "485",
+        "Mount St. Mary's University (MD)",
+        "MD",
+        "Private not-for-profit",
+        "$36,155",
+        "$9,136",
+        "$116,400",
+        "C",
+        {
+            "attack": 80.3637869769328,
+            "health": 551.2888004798507
+        }
+    ],
+    [
+        36,
+        "486",
+        "Manhattan School of Music",
+        "NY",
+        "Private not-for-profit",
+        "$21,335",
+        "$6,386",
+        "",
+        "C-",
+        {
+            "attack": 80.35763672930489,
+            "health": 551.2688927172848
+        }
+    ],
+    [
+        37,
+        "487",
+        "Georgia College & State University",
+        "GA",
+        "Public",
+        "$8,610",
+        "$6,446",
+        "$93,700",
+        "",
+        {
+            "attack": 80.3515904588622,
+            "health": 551.2492924646994
+        }
+    ],
+    [
+        38,
+        "488",
+        "University of Puerto Rico-Humacao",
+        "PR",
+        "Public",
+        "$7,826",
+        "$3,333",
+        "",
+        "",
+        {
+            "attack": 80.34564640774788,
+            "health": 551.2299949720685
+        }
+    ],
+    [
+        39,
+        "489",
+        "Montana Tech of the University of Montana",
+        "MT",
+        "Public",
+        "$5,917",
+        "$5,686",
+        "$121,700",
+        "",
+        {
+            "attack": 80.33980284782368,
+            "health": 551.2109955627387
+        }
+    ],
+    [
+        40,
+        "490",
+        "Lewis University",
+        "IL",
+        "Private not-for-profit",
+        "$26,423",
+        "$8,377",
+        "$105,900",
+        "C",
+        {
+            "attack": 80.3340580801676,
+            "health": 551.1922896322955
+        }
+    ],
+    [
+        41,
+        "491",
+        "Lake Forest College",
+        "IL",
+        "Private not-for-profit",
+        "$37,907",
+        "$7,013",
+        "$122,700",
+        "C-",
+        {
+            "attack": 80.3284104345799,
+            "health": 551.1738726474475
+        }
+    ],
+    [
+        42,
+        "492",
+        "Hanover College",
+        "IN",
+        "Private not-for-profit",
+        "$28,650",
+        "$2,452",
+        "$99,900",
+        "C+",
+        {
+            "attack": 80.32285826909754,
+            "health": 551.1557401449281
+        }
+    ],
+    [
+        43,
+        "493",
+        "University of Baltimore",
+        "MD",
+        "Public",
+        "$7,544",
+        "$5,118",
+        "$100,400",
+        "",
+        {
+            "attack": 80.3173999695168,
+            "health": 551.1378877304134
+        }
+    ],
+    [
+        44,
+        "494",
+        "University of New Orleans",
+        "LA",
+        "Public",
+        "$10,260",
+        "$5,499",
+        "$107,400",
+        "",
+        {
+            "attack": 80.31203394892398,
+            "health": 551.1203110774575
+        }
+    ],
+    [
+        45,
+        "495",
+        "University of Nebraska, Omaha",
+        "NE",
+        "Public",
+        "$8,180",
+        "$5,904",
+        "$104,300",
+        "",
+        {
+            "attack": 80.30675864723402,
+            "health": 551.1030059264441
+        }
+    ],
+    [
+        46,
+        "496",
+        "Molloy College",
+        "NY",
+        "Private not-for-profit",
+        "$20,822",
+        "$7,387",
+        "$106,100",
+        "D",
+        {
+            "attack": 80.30157253073693,
+            "health": 551.085968083554
+        }
+    ],
+    [
+        47,
+        "497",
+        "University of Colorado, Denver",
+        "CO",
+        "Public",
+        "$9,384",
+        "$6,942",
+        "$115,000",
+        "",
+        {
+            "attack": 80.29647409165193,
+            "health": 551.0691934197488
+        }
+    ],
+    [
+        48,
+        "498",
+        "Saint Mary's University of Minnesota",
+        "MN",
+        "Private not-for-profit",
+        "$30,091",
+        "$9,101",
+        "$109,000",
+        "C-",
+        {
+            "attack": 80.291461847689,
+            "health": 551.0526778697703
+        }
+    ],
+    [
+        49,
+        "499",
+        "Thomas Jefferson University",
+        "PA",
+        "Private not-for-profit",
+        "$32,486",
+        "$7,588",
+        "$107,500",
+        "A-",
+        {
+            "attack": 80.28653434161804,
+            "health": 551.0364174311552
+        }
+    ],
+    [
+        50,
+        "500",
+        "University of Houston, Clear Lake",
+        "TX",
+        "Public",
+        "$16,973",
+        "$5,035",
+        "$113,800",
+        "",
+        {
+            "attack": 80.28169014084507,
+            "health": 551.0204081632653
+        }
+    ]
+]
