@@ -76,6 +76,7 @@ class Core(commands.Cog):
         await ctx.message.add_reaction("✅")
 
     @commands.is_owner()
+    @app_commands.checks.cooldown(1, 30.0)
     @app_commands.command(name="chanceme", description="Get your definitely accurate chanceme here")
     async def chanceme(self, interaction: Interaction, user_input: str):
         # response_message = f"{interaction.user.mention} Your input was: {user_input}. whts up lil bro lock in goofy ahh ecs i swear"
