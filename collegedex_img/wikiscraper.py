@@ -19,7 +19,8 @@ driver.get("https://en.wikipedia.org/wiki/University_of_Houston–Clear_Lake")
 time.sleep(1.5)
 
 for i in range(len(collegedata)):
-    if data[i][1] != "":
+    if data[i][1] != "" and int(data[i][1]) > 58:
+        print(data[i][1])
         searchbar = driver.find_elements(By.CLASS_NAME, "cdx-text-input__input")[0]
         searchbar.send_keys(data[i][2])
         time.sleep(0.5)
@@ -34,11 +35,17 @@ for i in range(len(collegedata)):
             img = grids.find_element(By.TAG_NAME, "img")
             imgurl = img.get_attribute('src')
             spl = imgurl.split('.')[-1]
+            driver.execute_script("window.open('');") 
+            driver.switch_to.window(driver.window_handles[1]) 
+            driver.get(imgurl) 
+            time.sleep(1)
             img_data = requests.get(imgurl).content
             with open(f'./images/{data[i][1]}.{spl}', 'wb') as handler:
                 handler.write(img_data)
-            time.sleep(1)
+            driver.close()
+            driver.switch_to.window(driver.window_handles[0])
+            time.sleep(2)
         except:
-            time.sleep(1)
+            time.sleep(2)
 
 driver.quit()
