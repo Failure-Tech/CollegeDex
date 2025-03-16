@@ -15,11 +15,6 @@
         }
     ],
     [
-        1,
-        "",
-        "Princeton University is a private Ivy League research university located in Princeton, New Jersey. As the fourth oldest college in the United States, Princeton has a deep history that spans 276 years. The university offers 37 degree concentrations and over 50 interdepartmental certificate programs, with some of the most popular majors being social sciences, engineering, public administration, and social service professions. Princeton provides generous financial aid, covering 100% of tuition and housing for families earning up to $65,000 for the class of 2026. In 2022, Princeton reported an endowment valued at $35.8 billion to help fund university-wide research, service programs, and financial aid to help students graduate debt free. Campus traditions allow Ivy League sports rivalries to live on\u2014students celebrate defeating Harvard and Yale in the same season by creating a bonfire by burning crates decorated with the rival team\u2019s colors and logos. Keeping with tradition, students conclude the end of each course with a round of applause in appreciation to the professor once the final lecture is given, writes Am\u00e9lie Lemay, who described her 2021 freshman semester at Princeton University.\nView Profile\nAV. GRANT AID\n$59,792"
-    ],
-    [
         2,
         "2",
         "Stanford University",
